@@ -6330,7 +6330,9 @@
   {
     "id": 652,
     "rarity": 1,
-    "type": 5
+    "type": 5,
+    "atkBonus": 300,
+    "defBonus": 300
   },
   {
     "id": 653,
