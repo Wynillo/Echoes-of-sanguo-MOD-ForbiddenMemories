@@ -1,0 +1,1665 @@
+{
+  "formulas": [
+    {
+      "id": "dragon_dragon_same",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 1,
+      "priority": 10,
+      "resultPool": [
+        713,
+        82,
+        31
+      ]
+    },
+    {
+      "id": "dragon_spellcaster",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 2,
+      "priority": 10,
+      "resultPool": [
+        69,
+        551,
+        10
+      ]
+    },
+    {
+      "id": "dragon_zombie",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 8,
+      "priority": 10,
+      "resultPool": [
+        39,
+        545,
+        97
+      ]
+    },
+    {
+      "id": "dragon_warrior",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 3,
+      "priority": 10,
+      "resultPool": [
+        37,
+        551,
+        473,
+        15,
+        11,
+        502,
+        294,
+        138
+      ]
+    },
+    {
+      "id": "dragon_beastwarrior",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 4,
+      "priority": 10,
+      "resultPool": [
+        31
+      ]
+    },
+    {
+      "id": "dragon_beast",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 5,
+      "priority": 10,
+      "resultPool": [
+        529,
+        31,
+        642
+      ]
+    },
+    {
+      "id": "dragon_wingedbeast",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 6,
+      "priority": 10,
+      "resultPool": [
+        467,
+        386
+      ]
+    },
+    {
+      "id": "dragon_fiend",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 7,
+      "priority": 10,
+      "resultPool": [
+        217,
+        10,
+        31
+      ]
+    },
+    {
+      "id": "dragon_fairy",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 20,
+      "priority": 10,
+      "resultPool": [
+        551
+      ]
+    },
+    {
+      "id": "dragon_insect",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 13,
+      "priority": 10,
+      "resultPool": [
+        31
+      ]
+    },
+    {
+      "id": "dragon_dinosaur",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 19,
+      "priority": 10,
+      "resultPool": [
+        31
+      ]
+    },
+    {
+      "id": "dragon_reptile",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 16,
+      "priority": 10,
+      "resultPool": [
+        570
+      ]
+    },
+    {
+      "id": "dragon_machine",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        409
+      ]
+    },
+    {
+      "id": "dragon_thunder",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        613,
+        425
+      ]
+    },
+    {
+      "id": "dragon_aqua",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        443,
+        73,
+        448
+      ]
+    },
+    {
+      "id": "dragon_rock",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        426
+      ]
+    },
+    {
+      "id": "dragon_plant",
+      "comboType": "race+race",
+      "operand1": 1,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        571
+      ]
+    },
+    {
+      "id": "spellcaster_spellcaster_same",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 2,
+      "priority": 10,
+      "resultPool": [
+        551,
+        149
+      ]
+    },
+    {
+      "id": "spellcaster_zombie",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 8,
+      "priority": 10,
+      "resultPool": [
+        69,
+        551,
+        470
+      ]
+    },
+    {
+      "id": "spellcaster_warrior",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 3,
+      "priority": 10,
+      "resultPool": [
+        69,
+        551,
+        473,
+        15,
+        495,
+        10,
+        41,
+        633,
+        133
+      ]
+    },
+    {
+      "id": "spellcaster_beast",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 5,
+      "priority": 10,
+      "resultPool": [
+        529,
+        483,
+        627
+      ]
+    },
+    {
+      "id": "spellcaster_wingedbeast",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 6,
+      "priority": 10,
+      "resultPool": [
+        467,
+        117,
+        272
+      ]
+    },
+    {
+      "id": "spellcaster_fiend",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 7,
+      "priority": 10,
+      "resultPool": [
+        22,
+        551,
+        377,
+        633
+      ]
+    },
+    {
+      "id": "spellcaster_fairy",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 20,
+      "priority": 10,
+      "resultPool": [
+        551,
+        582,
+        2
+      ]
+    },
+    {
+      "id": "spellcaster_dinosaur",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 19,
+      "priority": 10,
+      "resultPool": [
+        69
+      ]
+    },
+    {
+      "id": "spellcaster_fish",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 14,
+      "priority": 10,
+      "resultPool": [
+        626,
+        431
+      ]
+    },
+    {
+      "id": "spellcaster_seaserpent",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 15,
+      "priority": 10,
+      "resultPool": [
+        69,
+        458
+      ]
+    },
+    {
+      "id": "spellcaster_machine",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        69,
+        551,
+        639,
+        643
+      ]
+    },
+    {
+      "id": "spellcaster_thunder",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        69,
+        458,
+        462
+      ]
+    },
+    {
+      "id": "spellcaster_aqua",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        519,
+        593,
+        449
+      ]
+    },
+    {
+      "id": "spellcaster_pyro",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 10,
+      "priority": 10,
+      "resultPool": [
+        401
+      ]
+    },
+    {
+      "id": "spellcaster_rock",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        69,
+        401,
+        531
+      ]
+    },
+    {
+      "id": "spellcaster_plant",
+      "comboType": "race+race",
+      "operand1": 2,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        638
+      ]
+    },
+    {
+      "id": "zombie_zombie_same",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 8,
+      "priority": 10,
+      "resultPool": [
+        39,
+        545,
+        36,
+        215
+      ]
+    },
+    {
+      "id": "zombie_warrior",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 3,
+      "priority": 10,
+      "resultPool": [
+        551,
+        39,
+        473,
+        15,
+        11,
+        545,
+        97,
+        96,
+        30
+      ]
+    },
+    {
+      "id": "zombie_beast",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 5,
+      "priority": 10,
+      "resultPool": [
+        529,
+        642,
+        9
+      ]
+    },
+    {
+      "id": "zombie_wingedbeast",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 6,
+      "priority": 10,
+      "resultPool": [
+        467,
+        386,
+        272
+      ]
+    },
+    {
+      "id": "zombie_fiend",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 7,
+      "priority": 10,
+      "resultPool": [
+        215,
+        154,
+        9
+      ]
+    },
+    {
+      "id": "zombie_fairy",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 20,
+      "priority": 10,
+      "resultPool": [
+        551,
+        100
+      ]
+    },
+    {
+      "id": "zombie_dinosaur",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 19,
+      "priority": 10,
+      "resultPool": [
+        564,
+        39,
+        545
+      ]
+    },
+    {
+      "id": "zombie_reptile",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 16,
+      "priority": 10,
+      "resultPool": [
+        471
+      ]
+    },
+    {
+      "id": "zombie_fish",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 14,
+      "priority": 10,
+      "resultPool": [
+        539
+      ]
+    },
+    {
+      "id": "zombie_seaserpent",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 15,
+      "priority": 10,
+      "resultPool": [
+        39,
+        545,
+        97
+      ]
+    },
+    {
+      "id": "zombie_machine",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        39,
+        409,
+        215
+      ]
+    },
+    {
+      "id": "zombie_thunder",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        613,
+        39,
+        545
+      ]
+    },
+    {
+      "id": "zombie_aqua",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        443,
+        73,
+        97,
+        519,
+        593
+      ]
+    },
+    {
+      "id": "zombie_pyro",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 10,
+      "priority": 10,
+      "resultPool": [
+        215,
+        154
+      ]
+    },
+    {
+      "id": "zombie_rock",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        426,
+        457
+      ]
+    },
+    {
+      "id": "zombie_plant",
+      "comboType": "race+race",
+      "operand1": 8,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        571,
+        99,
+        228
+      ]
+    },
+    {
+      "id": "warrior_warrior_same",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 3,
+      "priority": 10,
+      "resultPool": [
+        33,
+        551,
+        473,
+        15,
+        11,
+        495,
+        641,
+        502,
+        294,
+        133
+      ]
+    },
+    {
+      "id": "warrior_beastwarrior",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 4,
+      "priority": 10,
+      "resultPool": [
+        473,
+        31,
+        641
+      ]
+    },
+    {
+      "id": "warrior_beast",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 5,
+      "priority": 10,
+      "resultPool": [
+        529,
+        627,
+        31,
+        641,
+        64
+      ]
+    },
+    {
+      "id": "warrior_wingedbeast",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 6,
+      "priority": 10,
+      "resultPool": [
+        467,
+        465,
+        386,
+        473,
+        15,
+        495,
+        272
+      ]
+    },
+    {
+      "id": "warrior_fiend",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 7,
+      "priority": 10,
+      "resultPool": [
+        551,
+        473,
+        15,
+        10,
+        31,
+        633,
+        641,
+        133
+      ]
+    },
+    {
+      "id": "warrior_fairy",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 20,
+      "priority": 10,
+      "resultPool": [
+        551,
+        582,
+        495,
+        41,
+        633
+      ]
+    },
+    {
+      "id": "warrior_insect",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 13,
+      "priority": 10,
+      "resultPool": [
+        31,
+        641,
+        479
+      ]
+    },
+    {
+      "id": "warrior_dinosaur",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 19,
+      "priority": 10,
+      "resultPool": [
+        11,
+        31,
+        641
+      ]
+    },
+    {
+      "id": "warrior_reptile",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 16,
+      "priority": 10,
+      "resultPool": [
+        485
+      ]
+    },
+    {
+      "id": "warrior_fish",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 14,
+      "priority": 10,
+      "resultPool": [
+        626,
+        546
+      ]
+    },
+    {
+      "id": "warrior_seaserpent",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 15,
+      "priority": 10,
+      "resultPool": [
+        11
+      ]
+    },
+    {
+      "id": "warrior_machine",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        551,
+        473,
+        409,
+        639,
+        15,
+        495,
+        413,
+        133
+      ]
+    },
+    {
+      "id": "warrior_thunder",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        613,
+        11,
+        425
+      ]
+    },
+    {
+      "id": "warrior_aqua",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        443,
+        473,
+        73,
+        15,
+        448,
+        519,
+        593,
+        641
+      ]
+    },
+    {
+      "id": "warrior_pyro",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 10,
+      "priority": 10,
+      "resultPool": [
+        473,
+        15,
+        133
+      ]
+    },
+    {
+      "id": "warrior_rock",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        531,
+        426,
+        473,
+        15,
+        456,
+        133
+      ]
+    },
+    {
+      "id": "warrior_plant",
+      "comboType": "race+race",
+      "operand1": 3,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        571,
+        473,
+        15,
+        638,
+        511,
+        133
+      ]
+    },
+    {
+      "id": "beastwarrior_beast",
+      "comboType": "race+race",
+      "operand1": 4,
+      "operand2": 5,
+      "priority": 10,
+      "resultPool": [
+        529,
+        92,
+        642
+      ]
+    },
+    {
+      "id": "beastwarrior_wingedbeast",
+      "comboType": "race+race",
+      "operand1": 4,
+      "operand2": 6,
+      "priority": 10,
+      "resultPool": [
+        467
+      ]
+    },
+    {
+      "id": "beastwarrior_rock",
+      "comboType": "race+race",
+      "operand1": 4,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        531
+      ]
+    },
+    {
+      "id": "beast_beast_same",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 5,
+      "priority": 10,
+      "resultPool": [
+        483,
+        627,
+        587,
+        642
+      ]
+    },
+    {
+      "id": "beast_wingedbeast",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 6,
+      "priority": 10,
+      "resultPool": [
+        467,
+        529,
+        627
+      ]
+    },
+    {
+      "id": "beast_fiend",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 7,
+      "priority": 10,
+      "resultPool": [
+        529,
+        483,
+        627,
+        633,
+        642
+      ]
+    },
+    {
+      "id": "beast_fairy",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 20,
+      "priority": 10,
+      "resultPool": [
+        483,
+        627,
+        582,
+        633
+      ]
+    },
+    {
+      "id": "beast_insect",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 13,
+      "priority": 10,
+      "resultPool": [
+        642
+      ]
+    },
+    {
+      "id": "beast_dinosaur",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 19,
+      "priority": 10,
+      "resultPool": [
+        642
+      ]
+    },
+    {
+      "id": "beast_fish",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 14,
+      "priority": 10,
+      "resultPool": [
+        627,
+        617,
+        230,
+        404
+      ]
+    },
+    {
+      "id": "beast_machine",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        529,
+        639,
+        423,
+        412
+      ]
+    },
+    {
+      "id": "beast_thunder",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        459
+      ]
+    },
+    {
+      "id": "beast_aqua",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        529,
+        627,
+        642,
+        193
+      ]
+    },
+    {
+      "id": "beast_pyro",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 10,
+      "priority": 10,
+      "resultPool": [
+        529
+      ]
+    },
+    {
+      "id": "beast_rock",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        529,
+        531,
+        642
+      ]
+    },
+    {
+      "id": "beast_plant",
+      "comboType": "race+race",
+      "operand1": 5,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        529,
+        627,
+        638,
+        487
+      ]
+    },
+    {
+      "id": "wingedbeast_wingedbeast_same",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 6,
+      "priority": 10,
+      "resultPool": [
+        467,
+        595,
+        672
+      ]
+    },
+    {
+      "id": "wingedbeast_fiend",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 7,
+      "priority": 10,
+      "resultPool": [
+        467,
+        650,
+        272,
+        595
+      ]
+    },
+    {
+      "id": "wingedbeast_fairy",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 20,
+      "priority": 10,
+      "resultPool": [
+        582
+      ]
+    },
+    {
+      "id": "wingedbeast_dinosaur",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 19,
+      "priority": 10,
+      "resultPool": [
+        386
+      ]
+    },
+    {
+      "id": "wingedbeast_seaserpent",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 15,
+      "priority": 10,
+      "resultPool": [
+        386
+      ]
+    },
+    {
+      "id": "wingedbeast_machine",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        467,
+        386,
+        272
+      ]
+    },
+    {
+      "id": "wingedbeast_thunder",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        386
+      ]
+    },
+    {
+      "id": "wingedbeast_aqua",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        467,
+        520,
+        519
+      ]
+    },
+    {
+      "id": "wingedbeast_pyro",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 10,
+      "priority": 10,
+      "resultPool": [
+        467,
+        272
+      ]
+    },
+    {
+      "id": "wingedbeast_rock",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        467,
+        531,
+        272
+      ]
+    },
+    {
+      "id": "wingedbeast_plant",
+      "comboType": "race+race",
+      "operand1": 6,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        467,
+        638,
+        272
+      ]
+    },
+    {
+      "id": "fiend_fiend_same",
+      "comboType": "race+race",
+      "operand1": 7,
+      "operand2": 7,
+      "priority": 10,
+      "resultPool": [
+        22,
+        633,
+        567
+      ]
+    },
+    {
+      "id": "fiend_fairy",
+      "comboType": "race+race",
+      "operand1": 7,
+      "operand2": 20,
+      "priority": 10,
+      "resultPool": [
+        551,
+        582,
+        633
+      ]
+    },
+    {
+      "id": "fiend_reptile",
+      "comboType": "race+race",
+      "operand1": 7,
+      "operand2": 16,
+      "priority": 10,
+      "resultPool": [
+        471
+      ]
+    },
+    {
+      "id": "fiend_fish",
+      "comboType": "race+race",
+      "operand1": 7,
+      "operand2": 14,
+      "priority": 10,
+      "resultPool": [
+        626,
+        431
+      ]
+    },
+    {
+      "id": "fiend_aqua",
+      "comboType": "race+race",
+      "operand1": 7,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        519,
+        593,
+        450
+      ]
+    },
+    {
+      "id": "fiend_rock",
+      "comboType": "race+race",
+      "operand1": 7,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        531,
+        23,
+        244
+      ]
+    },
+    {
+      "id": "fiend_plant",
+      "comboType": "race+race",
+      "operand1": 7,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        594,
+        638,
+        157
+      ]
+    },
+    {
+      "id": "fairy_fairy_same",
+      "comboType": "race+race",
+      "operand1": 20,
+      "operand2": 20,
+      "priority": 10,
+      "resultPool": [
+        551,
+        582,
+        633,
+        2
+      ]
+    },
+    {
+      "id": "fairy_fish",
+      "comboType": "race+race",
+      "operand1": 20,
+      "operand2": 14,
+      "priority": 10,
+      "resultPool": [
+        440,
+        582,
+        626,
+        431
+      ]
+    },
+    {
+      "id": "fairy_machine",
+      "comboType": "race+race",
+      "operand1": 20,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        551
+      ]
+    },
+    {
+      "id": "fairy_aqua",
+      "comboType": "race+race",
+      "operand1": 20,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        582
+      ]
+    },
+    {
+      "id": "fairy_rock",
+      "comboType": "race+race",
+      "operand1": 20,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        531
+      ]
+    },
+    {
+      "id": "fairy_plant",
+      "comboType": "race+race",
+      "operand1": 20,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        582,
+        638
+      ]
+    },
+    {
+      "id": "insect_insect_same",
+      "comboType": "race+race",
+      "operand1": 13,
+      "operand2": 13,
+      "priority": 10,
+      "resultPool": [
+        533
+      ]
+    },
+    {
+      "id": "dinosaur_machine",
+      "comboType": "race+race",
+      "operand1": 19,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        409,
+        508
+      ]
+    },
+    {
+      "id": "dinosaur_thunder",
+      "comboType": "race+race",
+      "operand1": 19,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        613
+      ]
+    },
+    {
+      "id": "dinosaur_aqua",
+      "comboType": "race+race",
+      "operand1": 19,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        443,
+        73
+      ]
+    },
+    {
+      "id": "dinosaur_rock",
+      "comboType": "race+race",
+      "operand1": 19,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        426
+      ]
+    },
+    {
+      "id": "dinosaur_plant",
+      "comboType": "race+race",
+      "operand1": 19,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        571
+      ]
+    },
+    {
+      "id": "reptile_machine",
+      "comboType": "race+race",
+      "operand1": 16,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        639
+      ]
+    },
+    {
+      "id": "reptile_thunder",
+      "comboType": "race+race",
+      "operand1": 16,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        610
+      ]
+    },
+    {
+      "id": "reptile_plant",
+      "comboType": "race+race",
+      "operand1": 16,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        620
+      ]
+    },
+    {
+      "id": "fish_fish_same",
+      "comboType": "race+race",
+      "operand1": 14,
+      "operand2": 14,
+      "priority": 10,
+      "resultPool": [
+        440,
+        626
+      ]
+    },
+    {
+      "id": "fish_machine",
+      "comboType": "race+race",
+      "operand1": 14,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        639,
+        438,
+        542
+      ]
+    },
+    {
+      "id": "fish_aqua",
+      "comboType": "race+race",
+      "operand1": 14,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        626,
+        251,
+        431
+      ]
+    },
+    {
+      "id": "fish_rock",
+      "comboType": "race+race",
+      "operand1": 14,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        531
+      ]
+    },
+    {
+      "id": "fish_plant",
+      "comboType": "race+race",
+      "operand1": 14,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        440,
+        638,
+        626,
+        431
+      ]
+    },
+    {
+      "id": "seaserpent_machine",
+      "comboType": "race+race",
+      "operand1": 15,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        409
+      ]
+    },
+    {
+      "id": "seaserpent_thunder",
+      "comboType": "race+race",
+      "operand1": 15,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        613,
+        425
+      ]
+    },
+    {
+      "id": "seaserpent_aqua",
+      "comboType": "race+race",
+      "operand1": 15,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        443,
+        73,
+        448
+      ]
+    },
+    {
+      "id": "seaserpent_rock",
+      "comboType": "race+race",
+      "operand1": 15,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        426
+      ]
+    },
+    {
+      "id": "seaserpent_plant",
+      "comboType": "race+race",
+      "operand1": 15,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        571
+      ]
+    },
+    {
+      "id": "machine_machine_same",
+      "comboType": "race+race",
+      "operand1": 17,
+      "operand2": 17,
+      "priority": 10,
+      "resultPool": [
+        639
+      ]
+    },
+    {
+      "id": "machine_thunder",
+      "comboType": "race+race",
+      "operand1": 17,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        613,
+        409
+      ]
+    },
+    {
+      "id": "machine_aqua",
+      "comboType": "race+race",
+      "operand1": 17,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        443,
+        639,
+        519,
+        593
+      ]
+    },
+    {
+      "id": "machine_rock",
+      "comboType": "race+race",
+      "operand1": 17,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        426,
+        244
+      ]
+    },
+    {
+      "id": "machine_plant",
+      "comboType": "race+race",
+      "operand1": 17,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        571
+      ]
+    },
+    {
+      "id": "thunder_thunder_same",
+      "comboType": "race+race",
+      "operand1": 18,
+      "operand2": 18,
+      "priority": 10,
+      "resultPool": [
+        613
+      ]
+    },
+    {
+      "id": "thunder_aqua",
+      "comboType": "race+race",
+      "operand1": 18,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        443,
+        73,
+        460
+      ]
+    },
+    {
+      "id": "thunder_rock",
+      "comboType": "race+race",
+      "operand1": 18,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        613,
+        426
+      ]
+    },
+    {
+      "id": "thunder_plant",
+      "comboType": "race+race",
+      "operand1": 18,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        571
+      ]
+    },
+    {
+      "id": "aqua_aqua_same",
+      "comboType": "race+race",
+      "operand1": 9,
+      "operand2": 9,
+      "priority": 10,
+      "resultPool": [
+        647,
+        430
+      ]
+    },
+    {
+      "id": "aqua_pyro",
+      "comboType": "race+race",
+      "operand1": 9,
+      "operand2": 10,
+      "priority": 10,
+      "resultPool": [
+        519,
+        593
+      ]
+    },
+    {
+      "id": "aqua_rock",
+      "comboType": "race+race",
+      "operand1": 9,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        531,
+        375,
+        519,
+        518
+      ]
+    },
+    {
+      "id": "aqua_plant",
+      "comboType": "race+race",
+      "operand1": 9,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        638,
+        519,
+        593
+      ]
+    },
+    {
+      "id": "pyro_rock",
+      "comboType": "race+race",
+      "operand1": 10,
+      "operand2": 11,
+      "priority": 10,
+      "resultPool": [
+        244
+      ]
+    },
+    {
+      "id": "pyro_plant",
+      "comboType": "race+race",
+      "operand1": 10,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        157
+      ]
+    },
+    {
+      "id": "rock_plant",
+      "comboType": "race+race",
+      "operand1": 11,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        531,
+        571,
+        244
+      ]
+    },
+    {
+      "id": "plant_plant_same",
+      "comboType": "race+race",
+      "operand1": 12,
+      "operand2": 12,
+      "priority": 10,
+      "resultPool": [
+        638
+      ]
+    }
+  ]
+}

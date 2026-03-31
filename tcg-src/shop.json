@@ -1,0 +1,90 @@
+{
+  "packs": [],
+  "packages": [
+    {
+      "id": "apprentice_pack",
+      "nameKey": "shop.apprentice_pack.name",
+      "descKey": "shop.apprentice_pack.desc",
+      "price": 200,
+      "icon": "📦",
+      "color": "#708090",
+      "cardPool": { "include": { "maxAtk": 1200 } },
+      "slots": [
+        { "count": 8 },
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.75, "6": 0.20, "8": 0.05 } }
+      ]
+    },
+    {
+      "id": "soldier_pack",
+      "nameKey": "shop.soldier_pack.name",
+      "descKey": "shop.soldier_pack.desc",
+      "price": 350,
+      "icon": "🗡",
+      "color": "#5a7a3a",
+      "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_6" },
+      "cardPool": { "include": { "maxAtk": 1600 } },
+      "slots": [
+        { "count": 8 },
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.75, "6": 0.20, "8": 0.05 } }
+      ]
+    },
+    {
+      "id": "guardian_pack",
+      "nameKey": "shop.guardian_pack.name",
+      "descKey": "shop.guardian_pack.desc",
+      "price": 500,
+      "icon": "🛡",
+      "color": "#4a6a9a",
+      "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_13" },
+      "cardPool": { "include": { "maxAtk": 2000 } },
+      "slots": [
+        { "count": 8 },
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.75, "6": 0.20, "8": 0.05 } }
+      ]
+    },
+    {
+      "id": "priest_pack",
+      "nameKey": "shop.priest_pack.name",
+      "descKey": "shop.priest_pack.desc",
+      "price": 650,
+      "icon": "🏛",
+      "color": "#6a4a8a",
+      "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_20" },
+      "cardPool": { "include": { "maxAtk": 2400 } },
+      "slots": [
+        { "count": 8 },
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.75, "6": 0.20, "8": 0.05 } }
+      ]
+    },
+    {
+      "id": "pharaoh_pack",
+      "nameKey": "shop.pharaoh_pack.name",
+      "descKey": "shop.pharaoh_pack.desc",
+      "price": 800,
+      "icon": "👑",
+      "color": "#c0a020",
+      "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_26" },
+      "cardPool": { "include": { "maxAtk": 2800 } },
+      "slots": [
+        { "count": 8 },
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.75, "6": 0.20, "8": 0.05 } }
+      ]
+    },
+    {
+      "id": "millennium_pack",
+      "nameKey": "shop.millennium_pack.name",
+      "descKey": "shop.millennium_pack.desc",
+      "price": 1000,
+      "icon": "🌟",
+      "color": "#d4af37",
+      "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_30" },
+      "cardPool": { "include": {} },
+      "slots": [
+        { "count": 8 },
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.75, "6": 0.20, "8": 0.05 } }
+      ]
+    }
+  ],
+  "currency": { "nameKey": "common.starchips", "icon": "⭐" },
+  "backgrounds": { "ch1": "ui/shop-bg-ancient.png", "ch2": "ui/shop-bg-tournament.png" }
+}
