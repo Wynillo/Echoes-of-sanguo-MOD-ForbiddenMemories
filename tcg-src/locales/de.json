@@ -1,0 +1,3152 @@
+{
+  "cards": {
+    "1": {
+      "name": "Blue-eyes White Dragon",
+      "description": "Eine extrem seltene Karte mit unübertroffener Angriffs- und Verteidigungskraft."
+    },
+    "2": {
+      "name": "Mystical Elf",
+      "description": "Eine zarte Elfe, die im Angriff schwach ist, aber eine hervorragende, von mystischer Kraft gestützte Verteidigung hat."
+    },
+    "3": {
+      "name": "Hitotsu-me Giant",
+      "description": "Ein einäugiger Koloss mit dicken, kräftigen Armen, die für vernichtende Schläge gemacht sind."
+    },
+    "4": {
+      "name": "Baby Dragon",
+      "description": "Weit mehr als nur ein Kind, dieser Drache besitzt unerschlossene Kraft."
+    },
+    "5": {
+      "name": "Ryu-kishin",
+      "description": "Ein sehr schwer fassbares Wesen, das wie eine harmlose Statue aussieht, bis es angreift."
+    },
+    "6": {
+      "name": "Feral Imp",
+      "description": "Ein verspielter kleiner Imp, der im Dunkeln lauert und darauf wartet, einen unvorsichtigen Feind anzugreifen."
+    },
+    "7": {
+      "name": "Winged Dragon #1",
+      "description": "Ein Drache, der häufig Bergfestungen bewacht. Sein typischer Angriff ist ein rasanter Sturzflug aus heiterem Himmel."
+    },
+    "8": {
+      "name": "Mushroom Man",
+      "description": "In feuchten Gebieten zu finden, schleudert dieses Monster Giftsporen gegen seine Feinde."
+    },
+    "9": {
+      "name": "Shadow Specter",
+      "description": "Ein geisterhaftes Wesen, das im Ödland erscheint und besonders lästig ist, wenn man ihm in großer Zahl begegnet."
+    },
+    "10": {
+      "name": "Blackland Fire Dragon",
+      "description": "Ein Drache, der in den Tiefen der Dunkelheit lebt. Seine Verteidigungsfähigkeit leidet unter seiner schlechten Sicht."
+    },
+    "11": {
+      "name": "Sword Arm of Dragon",
+      "description": "Mit einem Körper voller schwertartiger Dornen wagt es nichts, sich diesem Monster in den Weg zu stellen, wenn es angreift."
+    },
+    "12": {
+      "name": "Swamp Battleguard",
+      "description": "Dieses Wesen ist mit einer Stachelkeule bewaffnet, die fast alles auf seinem Weg zerstören kann. Man sagt, es hat einen ebenso zerstörerischen Bruder."
+    },
+    "13": {
+      "name": "Tyhone",
+      "description": "Kann Kanonenkugeln aus seinem Maul feuern für Fernkampfangriffe gegen Feinde."
+    },
+    "14": {
+      "name": "Battle Steer",
+      "description": "Ein Stiermonster, das oft in Wäldern zu finden ist. Greift gegnerische Monster mit einem Paar rasiermesserscharfer Hörner an."
+    },
+    "15": {
+      "name": "Flame Swordsman",
+      "description": "Ein Kämpfer mit der Gabe des Feuers. Greift Feinde mit einem flammenwerfenden Schwert an."
+    },
+    "16": {
+      "name": "Time Wizard",
+      "description": "Ein Zauberer, der die Zeit nach seinem Willen biegen kann. Auf den ersten Blick nicht mächtig, aber der Schein trügt."
+    },
+    "17": {
+      "name": "Right Leg of the Forbidden One",
+      "description": "Ein verbotenes Glied, versiegelt durch Magie. Wer dieses Siegel bricht, wird unendliche Macht erlangen. Nur eine Karte dieses Typs darf in ein Deck aufgenommen werden."
+    },
+    "18": {
+      "name": "Left Leg of the Forbidden One",
+      "description": "Ein verbotenes Glied, versiegelt durch Magie. Wer dieses Siegel bricht, wird unendliche Macht erlangen. Nur eine Karte dieses Typs darf in ein Deck aufgenommen werden."
+    },
+    "19": {
+      "name": "Right Arm of the Forbidden One",
+      "description": "Ein verbotenes Glied, versiegelt durch Magie. Wer dieses Siegel bricht, wird unendliche Macht erlangen. Nur eine Karte dieses Typs darf in ein Deck aufgenommen werden."
+    },
+    "20": {
+      "name": "Left Arm of the Forbidden One",
+      "description": "Ein verbotenes Glied, versiegelt durch Magie. Wer dieses Siegel bricht, wird unendliche Macht erlangen. Nur eine Karte dieses Typs darf in ein Deck aufgenommen werden."
+    },
+    "21": {
+      "name": "Exodia the Forbidden",
+      "description": "Once combined mit arms und legs, dieses Monster ist freed von seine magisch chains. Nur eine Karte dieses Typs darf in ein Deck aufgenommen werden."
+    },
+    "22": {
+      "name": "Summoned Skull",
+      "description": "An entity mit dark powers für confusing the feindlich. Among the FIEND class of Monster, dieses ist a pretty rare card."
+    },
+    "23": {
+      "name": "The Wicked Worm Beast",
+      "description": "A Monster worm created durch the powers of Dunkelheit. It suddenly appears von unter the ground to Angriff seine Feinde."
+    },
+    "24": {
+      "name": "Skull Servant",
+      "description": "A skeletal Geist das isn't stark aber kann mean trouble in large numbers."
+    },
+    "25": {
+      "name": "Horn Imp",
+      "description": "Ein kleines imp das dwells in der Dunkelheit. Seine single horn makes it a formidable opponent."
+    },
+    "26": {
+      "name": "Battle Ox",
+      "description": "A Monster mit tremendous Kraft. Zerstört Feinde mit a swing of seine axe."
+    },
+    "27": {
+      "name": "Beaver Warrior",
+      "description": "What dieses Kreatur lacks in size, it makes up für in Verteidigung wenn battling im meadow."
+    },
+    "28": {
+      "name": "Rock Ogre Grotto #1",
+      "description": "Protected durch a solid body of rock, dieses Kreatur throws a bone-shattering punch."
+    },
+    "29": {
+      "name": "Mountain Warrior",
+      "description": "A solid Krieger das kann move swiftly über rough terrain."
+    },
+    "30": {
+      "name": "Zombie Warrior",
+      "description": "A deceptively fragile-looking Skelett Krieger das ist known für seine schnell und precise Angriff."
+    },
+    "31": {
+      "name": "Koumori Dragon",
+      "description": "A vicious, Feuer-breathing Drache whose wicked Flammen corrupt the Seelen of seine victims."
+    },
+    "32": {
+      "name": "Two-headed King Rex",
+      "description": "An unusual und rarely seen two-headed Drache."
+    },
+    "33": {
+      "name": "Judge Man",
+      "description": "Für dieses club-wielding Krieger, there ist kein other outcome to Kampf than Sieg oder defeat."
+    },
+    "34": {
+      "name": "Saggi the Dark Clown",
+      "description": "Dieses clown appears out of nowhere und executes some sehr strange moves to avoid feindlich Angriff."
+    },
+    "35": {
+      "name": "Dark Magician",
+      "description": "The ultimate Magier in terms of Angriff und Verteidigung."
+    },
+    "36": {
+      "name": "The Snake Hair",
+      "description": "A Monster mit dem head of a poisonus snake. One look will turn an unwary opponent to stone."
+    },
+    "37": {
+      "name": "Gaia the Dragon Champion",
+      "description": "A Krieger's prowess combines mit a Drache's Geschwindigkeit to create ein mächtiges offensive force."
+    },
+    "38": {
+      "name": "Gaia the Fierce Knight",
+      "description": "A Ritter mounted on a horse das travels faster than the Wind. His Kampf charge ist a force to be reckoned mit."
+    },
+    "39": {
+      "name": "Curse of Dragon",
+      "description": "A wicked Drache das taps dark forces to execute ein mächtiges Angriff."
+    },
+    "40": {
+      "name": "Dragon Piper",
+      "description": "A jar carved mit strange patterns. It hat a particularly high Verteidigung factor."
+    },
+    "41": {
+      "name": "Celtic Guardian",
+      "description": "An elf, der learned to wield a Schwert, baffles Feinde mit Blitz-schnell Angriff."
+    },
+    "42": {
+      "name": "Illusionist Faceless Mage",
+      "description": "Manipulates feindlich Angriff mit dem Kraft of illusion. A sehr rare card."
+    },
+    "43": {
+      "name": "Karbonala Warrior",
+      "description": "A sehr average-looking fighter mit an unusually high Angriff factor."
+    },
+    "44": {
+      "name": "Rogue Doll",
+      "description": "A unique doll gifted mit mystical Kraft. Particularly mächtig wenn attacking gegen dark forces."
+    },
+    "45": {
+      "name": "Oscillo Hero #2",
+      "description": "Angriff seine Feinde mit Donner."
+    },
+    "46": {
+      "name": "Griffore",
+      "description": "Dieses Kreatur's tough hide deflects just about any Angriff."
+    },
+    "47": {
+      "name": "Torike",
+      "description": "Not as tough as it looks in terms of Verteidigung. Dieses Monster's sharp horn gives it an edge wenn attacking."
+    },
+    "48": {
+      "name": "Sangan",
+      "description": "A compact, three-eyed Monster das ist gefährlich wenn faced in der Dunkelheit."
+    },
+    "49": {
+      "name": "Big Insect",
+      "description": "Ein riesiges ant das dwells im jungle. Mächtig in terms of both ATK und DEF factors."
+    },
+    "50": {
+      "name": "Basic Insect",
+      "description": "Usually found travelling in swarms, dieses Kreatur's ideal environment ist the Wald."
+    },
+    "51": {
+      "name": "Armored Lizard",
+      "description": "A lizard mit a sehr tough hide und a sehr vicious bite."
+    },
+    "52": {
+      "name": "Hercules Beetle",
+      "description": "A massive beetle mit a tough hide und a gefährlich horn."
+    },
+    "53": {
+      "name": "Killer Needle",
+      "description": "Ein riesiges bee mit exceptional Stärke. Particularly gefährlich wenn a swarm ist encountered."
+    },
+    "54": {
+      "name": "Gokibore",
+      "description": "A large, spherical roach das Angriff seine Feinde durch rolling über them. Seine tough Verteidigung makes it a formidable foe."
+    },
+    "55": {
+      "name": "Giant Flea",
+      "description": "Ein riesiges blood-sucking flea das's verheerend wenn attacking."
+    },
+    "56": {
+      "name": "Larvae Moth",
+      "description": "Not much in seine larval form, dieses Kreatur ist a force to be reckoned mit wenn it grows to become a colossal moth."
+    },
+    "57": {
+      "name": "Great Moth",
+      "description": "Ein mächtiges Kreatur des Wald, dieses riesig moth Angriff seine Feinde durch spreading Gift dust mit seine wings."
+    },
+    "58": {
+      "name": "Kuriboh",
+      "description": "By itself, dieses small Kreatur may nicht seem like much. But in der Dunkelheit, it Angriff in numbers as a formidable force."
+    },
+    "59": {
+      "name": "Mammoth Graveyard",
+      "description": "A mammoth das protects the gravesite of seine pack. It's absolutely merciless wenn facing graverobbers."
+    },
+    "60": {
+      "name": "Great White",
+      "description": "Ein riesiges white shark mit razor-sharp teeth."
+    },
+    "61": {
+      "name": "Wolf",
+      "description": "A rarely seen wolf mit ein mächtiges nose für catching the scent of an feindlich."
+    },
+    "62": {
+      "name": "Harpie Lady",
+      "description": "A human-shaped animal mit wings. Beautiful to watch, aber lethal wenn engaged in Kampf."
+    },
+    "63": {
+      "name": "Harpie Lady Sisters",
+      "description": "Three fierce sisters der relentlessly Angriff as a team."
+    },
+    "64": {
+      "name": "Tiger Axe",
+      "description": "A fast und mächtig axe-wielding Bestie Krieger."
+    },
+    "65": {
+      "name": "Silver Fang",
+      "description": "A snow wolf das's beautiful to the eye aber absolutely vicious in Kampf."
+    },
+    "66": {
+      "name": "Kojikocy",
+      "description": "A man-Jäger mit mächtig arms das kann crush boulders."
+    },
+    "67": {
+      "name": "Perfectly Ultimate Great Moth",
+      "description": "The final incarnation des ultimate Insekt, the Great Moth!"
+    },
+    "68": {
+      "name": "Garoozis",
+      "description": "An axe-swinging Bestie Krieger mit dem head of a Drache."
+    },
+    "69": {
+      "name": "Thousand Dragon",
+      "description": "A Drache das hat grown und developed über a thousand years."
+    },
+    "70": {
+      "name": "Fiend Kraken",
+      "description": "A massive squid das suddenly appears aus dem depths des Meer to Angriff unwary Feinde."
+    },
+    "71": {
+      "name": "Jellyfish",
+      "description": "An almost invisible, semi-transparent jellyfish das drifts im Meer."
+    },
+    "72": {
+      "name": "Cocoon of Evolution",
+      "description": "Dieses Kreatur ist capable of instantly evolving larvae in adults."
+    },
+    "73": {
+      "name": "Kairyu-shin",
+      "description": "A Meer Drache das's referred to as the \"König des Ozean\". It Angriff seine Feinde mit riesig tidal waves."
+    },
+    "74": {
+      "name": "Giant Soldier of Stone",
+      "description": "Ein riesiges Krieger made of stone. A punch von dieses Kreatur hat Erde-shaking results."
+    },
+    "75": {
+      "name": "Man-eating Plant",
+      "description": "A meat-eating Pflanze das ist attractive to the eye aber gefährlich wenn approached."
+    },
+    "76": {
+      "name": "Krokodilus",
+      "description": "A vicious crocodile mit intelligence. Hard scales form a natural Rüstung für dieses Kreatur."
+    },
+    "77": {
+      "name": "Grappler",
+      "description": "A devious snake mit a thick body das wraps around an feindlich Monster und squeezes the Leben out of it."
+    },
+    "78": {
+      "name": "Axe Raider",
+      "description": "An axe-wielding Monster of tremendous Stärke und agility."
+    },
+    "79": {
+      "name": "Megazowler",
+      "description": "Nothing stands im way of dieses spike-covered Dinosaurier."
+    },
+    "80": {
+      "name": "Uraby",
+      "description": "Fast on seine feet, dieses Dinosaurier rips Feinde to shreds mit seine sharp claws."
+    },
+    "81": {
+      "name": "Crawling Dragon #2",
+      "description": "Ein mächtiges Drache mit teeth das kann grind almost anything to dust."
+    },
+    "82": {
+      "name": "Red-eyes B. Dragon",
+      "description": "A sehr rare card mit a high-level ATK factor."
+    },
+    "83": {
+      "name": "Castle of Dark Illusions",
+      "description": "A Kreatur das kann generate Dunkelheit to envelop alle das exists around it."
+    },
+    "84": {
+      "name": "Reaper of the Cards",
+      "description": "Dieses Monster boasts a stark Verteidigung und a massive scythe das cuts durch almost anything."
+    },
+    "85": {
+      "name": "King of Yamimakai",
+      "description": "Wields the Kraft of Dunkelheit to zerstören seine Feinde."
+    },
+    "86": {
+      "name": "Barox",
+      "description": "Dieses Kreatur flies durch der Dunkelheit, attacking seine Feinde mit seine long, hairy arms."
+    },
+    "87": {
+      "name": "Dark Chimera",
+      "description": "A Feuer-breathing Monster das dwells im netherworld."
+    },
+    "88": {
+      "name": "Metal Guardian",
+      "description": "A Unterweltler guarding the treasures des netherworld. Seine Verteidigung ist particularly high in a dark environment."
+    },
+    "89": {
+      "name": "Catapult Turtle",
+      "description": "Well-protected durch seine shell, dieses Monster flings projectiles von seine catapult."
+    },
+    "90": {
+      "name": "Gyakutenno Megami",
+      "description": "Uses her mystical Kraft to protect the schwach und provide spiritual support."
+    },
+    "91": {
+      "name": "Mystic Horseman",
+      "description": "Half man und half horse, dieses Monster ist known für seine extreme Geschwindigkeit."
+    },
+    "92": {
+      "name": "Rabid Horseman",
+      "description": "Ein mächtiges und unstoppable combination of bull und horse."
+    },
+    "93": {
+      "name": "Zanki",
+      "description": "Prefers to face Feinde one-on-one. His swiftly drawn blade delivers a quick und immediate finnish."
+    },
+    "94": {
+      "name": "Crawling Dragon",
+      "description": "A weakened Drache das kann kein longer fly, aber ist still a formidable force to be reckoned mit."
+    },
+    "95": {
+      "name": "Crass Clown",
+      "description": "A performer im Dark Circus, dieses clown drains the Stärke of seine Feinde mit strange dances."
+    },
+    "96": {
+      "name": "Armored Zombie",
+      "description": "A Krieger raised aus dem beyond. Blindly swings a sharp blade mit verheerend force."
+    },
+    "97": {
+      "name": "Dragon Zombie",
+      "description": "A Drache revived durch sorcery. Seine breath ist highly corrosive."
+    },
+    "98": {
+      "name": "Clown Zombie",
+      "description": "A clown revived durch the powers of Dunkelheit. Seine strange dance hat sent many Monster to their ends."
+    },
+    "99": {
+      "name": "Pumpking the King of Ghosts",
+      "description": "Dieses pumpkin König strikes at seine Feinde mit seine long tentacles."
+    },
+    "100": {
+      "name": "Battle Warrior",
+      "description": "A Krieger das fights mit his bare hands."
+    },
+    "101": {
+      "name": "Wings of Wicked Flame",
+      "description": "Soaring über seine Feinde on wings of crimson Feuer, dieses Monster Angriff durch blasting Flammen von seine body."
+    },
+    "102": {
+      "name": "Mask of Darkness",
+      "description": "A Schatten mask created durch the hands of a dark mage."
+    },
+    "103": {
+      "name": "Job-change Mirror",
+      "description": "An indestructible, wicked mirror das blocks feindlich Angriff."
+    },
+    "104": {
+      "name": "Curtain of the Dark Ones",
+      "description": "A curtain woven durch the hands of a Zauberer. It ist said to enhance the Kraft of Magie- users."
+    },
+    "105": {
+      "name": "Tomozaurus",
+      "description": "A deceivingly small Kreatur das ist so vicious it Angriff both friend und foe without discretion."
+    },
+    "106": {
+      "name": "Spirit of the Winds",
+      "description": "A Geist des Wind das freely sails the skies. Known to generate storms wenn it's in a bad mood."
+    },
+    "107": {
+      "name": "Kageningen",
+      "description": "Uses both seine physical und Schatten forms to Angriff, making it a difficult Kreatur to overcome."
+    },
+    "108": {
+      "name": "Graveyard and the Hand of Invitation",
+      "description": "A final resting place das enhances the Kraft des doomed und drains das des living."
+    },
+    "109": {
+      "name": "Goddess with the Third Eye",
+      "description": "A goddess mit an alle-seeing eye das reveals alle."
+    },
+    "110": {
+      "name": "Hero of the East",
+      "description": "A samurai aus dem Far East armed mit a razor-sharp Schwert."
+    },
+    "111": {
+      "name": "Doma The Angel of Silence",
+      "description": "Dieses angel rules über the doomed und administers it wenn necessary."
+    },
+    "112": {
+      "name": "That Which Feeds on Life",
+      "description": "A vile Monster das fuels seine Kraft durch draining the essence of Leben von seine opponents."
+    },
+    "113": {
+      "name": "Dark Gray",
+      "description": "Entirely gray, dieses Bestie hat rarely been seen durch mortal eyes."
+    },
+    "114": {
+      "name": "White Magical Hat",
+      "description": "A gentleman Dieb das eludes the law despite the fact das he sticks out like a sore thumb mit his silk hat und white cape."
+    },
+    "115": {
+      "name": "Kamion Wizard",
+      "description": "A Magie-user das controls chaos und wields a mighty sickle."
+    },
+    "116": {
+      "name": "Nightmare Scorpion",
+      "description": "A sehr toxic Kreatur das induces nightmares und Angriff seine victims mit four Gift- tipped stingers."
+    },
+    "117": {
+      "name": "Spirit of the Books",
+      "description": "A Geist des books mit infinite knowledge und an endless variety of Angriff strategies."
+    },
+    "118": {
+      "name": "Supporter in the Shadows",
+      "description": "A cute elf das assists gegen Feinde while remaining verborgen von sight."
+    },
+    "119": {
+      "name": "Trial of Nightmares",
+      "description": "Passes judgment on Feinde das sind locked in coffins."
+    },
+    "120": {
+      "name": "Dream Clown",
+      "description": "The geheimnisvoll dance of dieses Kreatur draws seine Feinde in eternal slumber."
+    },
+    "121": {
+      "name": "Sleeping Lion",
+      "description": "Frequently found sleeping, dieses Monster ist sehr gefährlich wenn awakened."
+    },
+    "122": {
+      "name": "Yamatano Dragon Scroll",
+      "description": "Dieses Drache ist conjured von a picture scroll to Angriff Feinde. It hat a pretty low Verteidigung factor."
+    },
+    "123": {
+      "name": "Dark Plant",
+      "description": "A vicious flower raised von polluted soil und fertilized durch dark forces."
+    },
+    "124": {
+      "name": "Ancient Tool",
+      "description": "An engine of destruction discovered im ruins of ein uraltes civilization."
+    },
+    "125": {
+      "name": "Faith Bird",
+      "description": "A bird mit a sehr long tail das Angriff mit a Licht das emanates von seine entire being."
+    },
+    "126": {
+      "name": "Orion the Battle King",
+      "description": "Ein geheimnisvolles Kreatur known as the König of Krieger, aber nobody hat lived long enough to tell how it earned seine reputation."
+    },
+    "127": {
+      "name": "Ansatsu",
+      "description": "A silent und schnell Krieger specializing in sneak Angriff."
+    },
+    "128": {
+      "name": "LaMoon",
+      "description": "A Zauberer der lives on the moon und Angriff opponents mit dem Kraft of lunar Licht."
+    },
+    "129": {
+      "name": "Nemuriko",
+      "description": "A child-like Kreatur das controls a sleep Geist to beckon Feinde in eternal slumber."
+    },
+    "130": {
+      "name": "Weather Control",
+      "description": "Dieses Monster ist capable of manipulating the weather. Dieses Kraft ist the reason behind the changing climate of Berge."
+    },
+    "131": {
+      "name": "Octoberser",
+      "description": "Ein seltsames Kreatur mit dem head of a Fisch und the tentacles of an octopus das Angriff seine Feinde mit spears."
+    },
+    "132": {
+      "name": "The 13th Grave",
+      "description": "A Zombie das suddenly appeared von plot #13 - supposedly an empty grave."
+    },
+    "133": {
+      "name": "Charubin the Fire Knight",
+      "description": "A Krieger protected durch a shell das kann sogar deflect the heat of burning Flammen."
+    },
+    "134": {
+      "name": "Mystical Capture Chain",
+      "description": "A mystical chain das ist believed capable of binding seine Feinde und preventing their Angriff."
+    },
+    "135": {
+      "name": "Fiend's Hand",
+      "description": "Long arms reach out aus dem Sumpf of Chaos to drag in feindlich creatures."
+    },
+    "136": {
+      "name": "Witty Phantom",
+      "description": "Dressed in a night-black tuxedo, dieses Kreatur presides über the doomed."
+    },
+    "137": {
+      "name": "Mystery Hand",
+      "description": "Twisting the fabric of reality, arms stretch out von another dimension to Angriff opponents."
+    },
+    "138": {
+      "name": "Dragon Statue",
+      "description": "A granite Krieger mit a Drache's Seele wields ein mächtiges Schwert gegen alle Feinde."
+    },
+    "139": {
+      "name": "Blue-eyed Silver Zombie",
+      "description": "A Kreatur rumored to turn Feinde in zombies mit a strange ray das emanates von seine eyes."
+    },
+    "140": {
+      "name": "Toad Master",
+      "description": "Thousands of years old, dieses frog Magier Angriff Feinde mit an army of tadpoles."
+    },
+    "141": {
+      "name": "Spiked Snail",
+      "description": "Evolving aus dem powers of Dunkelheit, dieses snail hat arms und legs das allow schnell Angriff gegen seine Feinde."
+    },
+    "142": {
+      "name": "Flame Manipulator",
+      "description": "Angriff Feinde mit Feuer-related Zauber, such as the \"Meer of Flames\" und the \"Wall of Feuer\"."
+    },
+    "143": {
+      "name": "Necrolancer the Timelord",
+      "description": "The first in a line of golems das appears almost anywhere von within a dimensional ring."
+    },
+    "144": {
+      "name": "Djinn the Watcher of the Wind",
+      "description": "Controls the air currents to create violent winds und tornadoes to blow away seine Feinde."
+    },
+    "145": {
+      "name": "The Bewitching Phantom Thief",
+      "description": "A flashy, black-caped Dieb der wields a Magie cane."
+    },
+    "146": {
+      "name": "Temple of Skulls",
+      "description": "A weird temple of skulls und bones das sucks the living essence of alle those der dare approach it."
+    },
+    "147": {
+      "name": "Monster Egg",
+      "description": "A Krieger verborgen within an egg das Angriff Feinde durch flinging eggshells."
+    },
+    "148": {
+      "name": "The Shadow Who Controls the Dark",
+      "description": "A living Schatten das dwells im realm of Dunkelheit. It paralyzes seine Feinde to prevent Angriff."
+    },
+    "149": {
+      "name": "Lord of the Lamp",
+      "description": "Ein riesiges das appears von a mystic lamp und follows the orders des lamp's owner."
+    },
+    "150": {
+      "name": "Akihiron",
+      "description": "Ein geheimnisvolles Kreatur das dwells below the Meer."
+    },
+    "151": {
+      "name": "Rhaimundos of the Red Sword",
+      "description": "A Krieger armed mit dem Schwert of Crimson Flames. Uses Feuer to bind the movement of seine Feinde."
+    },
+    "152": {
+      "name": "The Melting Red Shadow",
+      "description": "A Kreatur das melts in the Erde, melds mit an opponent's Schatten, und Angriff von below."
+    },
+    "153": {
+      "name": "Dokuroizo the Grim Reaper",
+      "description": "A living Geist das preys on the living essence of Feinde."
+    },
+    "154": {
+      "name": "Fire Reaper",
+      "description": "A Kreatur das deals out punishment mit seine flaming arrows."
+    },
+    "155": {
+      "name": "Larvas",
+      "description": "A fast-moving, bird-like Kreatur das strangles an opposing Monster mit seine long, thin arms."
+    },
+    "156": {
+      "name": "Hard Armor",
+      "description": "A living suit of Rüstung das Angriff Feinde mit a bone-jarring tackle."
+    },
+    "157": {
+      "name": "Firegrass",
+      "description": "A Feuer-breathing Pflanze found growing near volcanoes."
+    },
+    "158": {
+      "name": "Man Eater",
+      "description": "Man-eating Pflanze mit Gift feelers für attacking Feinde."
+    },
+    "159": {
+      "name": "Dig Beak",
+      "description": "Coiling seine Schlange-like body, dieses Kreatur spins und Angriff mit seine snapping beak."
+    },
+    "160": {
+      "name": "M-warrior #1",
+      "description": "Specializing in combination Angriff, dieses Krieger uses magnetism to block an feindlich's escape."
+    },
+    "161": {
+      "name": "M-warrior #2",
+      "description": "Specializing in combination Angriff, dieses Krieger ist equipped mit a tough, magnetically coated Rüstung."
+    },
+    "162": {
+      "name": "Tainted Wisdom",
+      "description": "A parasite brain das preys on the knowledge und intelligence of seine opponents."
+    },
+    "163": {
+      "name": "Lisark",
+      "description": "An unusual Kreatur mit sapphire eyes das creates visions to confuse the feindlich."
+    },
+    "164": {
+      "name": "Lord of Zemia",
+      "description": "A vile entity das deceives Feinde in walking a path of destruction."
+    },
+    "165": {
+      "name": "The Judgement Hand",
+      "description": "The hand of final judgment ist capable of intense Angriff gegen the feindlich."
+    },
+    "166": {
+      "name": "Mysterious Puppeteer",
+      "description": "A puppet master das manipulates Feinde during Kampf."
+    },
+    "167": {
+      "name": "Ancient Jar",
+      "description": "A fragile jar aus dem past containing ein geheimnisvolles Kreatur."
+    },
+    "168": {
+      "name": "Darkfire Dragon",
+      "description": "Scorching Flammen das wipe out Feinde im blink of an eye."
+    },
+    "169": {
+      "name": "Dark King of the Abyss",
+      "description": "König des netherworld. It's said das he once had the Kraft to rule über the Dark."
+    },
+    "170": {
+      "name": "Spirit of the Harp",
+      "description": "A Geist das soothes the Seele mit dem music of seine glorious harp."
+    },
+    "171": {
+      "name": "Big Eye",
+      "description": "Dieses Kreatur ist covered mit hypnotic eyes für mesmerizing seine Feinde."
+    },
+    "172": {
+      "name": "Armaill",
+      "description": "Ein seltsames Krieger der manipulates three furchteinflößend blades mit both hands und seine tail."
+    },
+    "173": {
+      "name": "Dark Prisoner",
+      "description": "Dieses Kreatur manipulates Licht to eliminate alle traces of seine appearance."
+    },
+    "174": {
+      "name": "Hurricail",
+      "description": "A twister das runs rampant im wastelands, cutting seine Feinde mit blades of Wind."
+    },
+    "175": {
+      "name": "Ancient Brain",
+      "description": "Exiled von reality, dieses Kreatur ist adept at fighting in der Dunkelheit."
+    },
+    "176": {
+      "name": "Fire Eye",
+      "description": "A winged eye enveloped in Flammen das Angriff Feinde mit Feuer."
+    },
+    "177": {
+      "name": "Monsturtle",
+      "description": "A vicious turtle mit a spiked shell."
+    },
+    "178": {
+      "name": "Claw Reacher",
+      "description": "Stretching arms und razor-sharp claws make dieses Monster a formidable opponent."
+    },
+    "179": {
+      "name": "Phantom Dewan",
+      "description": "A Magier das freezes an feindlich's movement mit a single Fluch."
+    },
+    "180": {
+      "name": "Arlownay",
+      "description": "A maiden im flower blossoms spreads poisonous pollen gegen opponents."
+    },
+    "181": {
+      "name": "Dark Shade",
+      "description": "Emits a dazzling Licht von seine crystal to blind seine Feinde."
+    },
+    "182": {
+      "name": "Masked Clown",
+      "description": "A dancing Krieger das makes mincemeat out of opponents mit a sharp scythe."
+    },
+    "183": {
+      "name": "Lucky Trinket",
+      "description": "A thin und reedy Kreatur protected durch sacred Kraft."
+    },
+    "184": {
+      "name": "Genin",
+      "description": "Uses amazing sleight-of-hand to fool und zerstören seine Feinde."
+    },
+    "185": {
+      "name": "Eyearmor",
+      "description": "Dieses Krieger confuses und zerstört Feinde durch adopting their images."
+    },
+    "186": {
+      "name": "Fiend Refrection #2",
+      "description": "A bird-Bestie das summons reinforcements mit a hand mirror."
+    },
+    "187": {
+      "name": "Gate Deeg",
+      "description": "A Kreatur mit an abdominal portal used für summoning Monster aus dem netherworld."
+    },
+    "188": {
+      "name": "Synchar",
+      "description": "An ugly Kreatur mit two heads und a mouth für blasting laser beams."
+    },
+    "189": {
+      "name": "Fusionist",
+      "description": "A monstrous cat mit wings und a long, striking tail."
+    },
+    "190": {
+      "name": "Akakieisu",
+      "description": "A Magier whose incantations numb the senses of opposing Monster."
+    },
+    "191": {
+      "name": "LaLa Li-oon",
+      "description": "Protected durch Donner, dieses gefährlich cloud Angriff seine Feinde mit acid rain."
+    },
+    "192": {
+      "name": "Key Mace",
+      "description": "Ein kleines angel whose cuteness melts the hearts of seine Feinde."
+    },
+    "193": {
+      "name": "Turtle Tiger",
+      "description": "A tiger encased in a protective shell das Angriff seine Feinde mit seine razor-sharp fangs."
+    },
+    "194": {
+      "name": "Terra the Terrible",
+      "description": "Know as a dweller des swamps, dieses Kreatur ist a minion des Dark forces."
+    },
+    "195": {
+      "name": "Doron",
+      "description": "An unpredictable Kreatur das splits in two und Angriff an feindlich von opposite directions."
+    },
+    "196": {
+      "name": "Arma Knight",
+      "description": "An ammonite Krieger das hat protected the seas aus dem dawn of time."
+    },
+    "197": {
+      "name": "Mech Mole Zombie",
+      "description": "A Kreatur des night das Angriff Feinde mit seine rocket-powered arms."
+    },
+    "198": {
+      "name": "Happy Lover",
+      "description": "A little angel das fires beams of happiness aus dem heart jewel on seine forehead."
+    },
+    "199": {
+      "name": "Penguin Knight",
+      "description": "A penguin-like Kreatur das slides on seine belly to deliver a blow mit seine outstretched Schwert."
+    },
+    "200": {
+      "name": "Petit Dragon",
+      "description": "A sehr small Drache known für seine vicious Angriff."
+    },
+    "201": {
+      "name": "Frenzied Panda",
+      "description": "A savage Bestie das carries a big bamboo stick für beating down seine Feinde."
+    },
+    "202": {
+      "name": "Air Marmot of Nefariousness",
+      "description": "A horned beaver mit wings das throws high-velocity acorns aus dem sky mit uncanny accuracy."
+    },
+    "203": {
+      "name": "Phantom Ghost",
+      "description": "Malicious spirits das walk the world des living, unable to find their final resting place."
+    },
+    "204": {
+      "name": "Mabarrel",
+      "description": "A cannon-like Monster das rapidly fires eyeballs at the feindlich."
+    },
+    "205": {
+      "name": "Dorover",
+      "description": "An ugly, melting Kreatur das breathes out Gift gas."
+    },
+    "206": {
+      "name": "Twin Long Rods #1",
+      "description": "Dieses Kreatur swings seine whip-like arms für mid-range Angriff gegen Feinde."
+    },
+    "207": {
+      "name": "Droll Bird",
+      "description": "Mit a Kampf cry das curdles the blood of seine opponent, dieses Kreatur Angriff mit seine massive beak."
+    },
+    "208": {
+      "name": "Petit Angel",
+      "description": "A quick-moving und winzig angel das's sehr difficult to hit."
+    },
+    "209": {
+      "name": "Winged Cleaver",
+      "description": "Dieses Kreatur Angriff durch swinging around seine sickle-like arms."
+    },
+    "210": {
+      "name": "Hinotama Soul",
+      "description": "An intensely hot Flamme Kreatur das rams anything das stands in seine way."
+    },
+    "211": {
+      "name": "Kaminarikozou",
+      "description": "Dieses Kreatur stores Blitz within seine body to deliver electrifying Angriff."
+    },
+    "212": {
+      "name": "Meotoko",
+      "description": "Ein riesiges Monster mit a single eye das fires an intence beam."
+    },
+    "213": {
+      "name": "Aqua Madoor",
+      "description": "A Magier des waters das conjures a liquid wall to crush any Feinde das oppose him."
+    },
+    "214": {
+      "name": "Kagemusha of the Blue Flame",
+      "description": "Serves as a double für the ruler des Blue Flamme. A master swordsman das wields a fine blade."
+    },
+    "215": {
+      "name": "Flame Ghost",
+      "description": "A fiery Geist das burns anything in seine path."
+    },
+    "216": {
+      "name": "Dryad",
+      "description": "A Geist des Wald protected durch the surrounding Pflanze Leben."
+    },
+    "217": {
+      "name": "B. Skull Dragon",
+      "description": "A sehr rare Kreatur created aus dem fusion of an uncommon Bestie und a vicious Drache."
+    },
+    "218": {
+      "name": "Two-mouth Darkruler",
+      "description": "A Dinosaurier mit two crushing jaws. Stores electricity in seine horn und releases high voltage bolts aus dem mouth on seine back."
+    },
+    "219": {
+      "name": "Solitude",
+      "description": "A Bestie-Krieger das swings a massive scythe das draws on the Geist of seine Feinde to deliver verheerend blows."
+    },
+    "220": {
+      "name": "Masked Sorcerer",
+      "description": "Ein geheimnisvolles Magier whose face remains forever verborgen behind a strange mask."
+    },
+    "221": {
+      "name": "Kumootoko",
+      "description": "A massive, intelligent spider das traps seine Feinde mit webbing."
+    },
+    "222": {
+      "name": "Midnight Fiend",
+      "description": "A winged Kreatur rumored to appear at midnight."
+    },
+    "223": {
+      "name": "Roaring Ocean Snake",
+      "description": "A massive Meer Schlange das creates tidal waves to wipe out seine Feinde."
+    },
+    "224": {
+      "name": "Trap Master",
+      "description": "A Krieger das excels in laying traps such as a bottomless pit, für eternally ensnaring opponents."
+    },
+    "225": {
+      "name": "Fiend Sword",
+      "description": "Few haben escaped the Fluch of dieses Kreatur. Those das haben done so haben gained untold Kraft."
+    },
+    "226": {
+      "name": "Skull Stalker",
+      "description": "Swift und vicious, dieses Monster grabs seine victim mit seine pincers und Angriff the captive mit seine Gift stinger."
+    },
+    "227": {
+      "name": "Hitodenchak",
+      "description": "A vicious starfish das spits acid to melt away seine Feinde."
+    },
+    "228": {
+      "name": "Wood Remains",
+      "description": "A Zombie das rose aus dem remains des woodland ruler."
+    },
+    "229": {
+      "name": "Hourglass of Life",
+      "description": "A Kreatur das allows Kraft to be gained at the cost of Leben."
+    },
+    "230": {
+      "name": "Rare Fish",
+      "description": "An unusual und wild Fisch mit dem head of a Bestie."
+    },
+    "231": {
+      "name": "Wood Clown",
+      "description": "An unpleasantly smiling Kreatur das wields a scythe to avoid feindlich blows."
+    },
+    "232": {
+      "name": "Madjinn Gunn",
+      "description": "A living Waffe das fires projectiles von seine mouth."
+    },
+    "233": {
+      "name": "Dark Titan of Terror",
+      "description": "A Geist said to dwell im world of dreams. Angriff Feinde in their sleep."
+    },
+    "234": {
+      "name": "Beautiful Headhuntress",
+      "description": "A lovely swordmaster mit some sehr agile moves."
+    },
+    "235": {
+      "name": "Wodan the Resident of the Forest",
+      "description": "A Krieger das hat long resided im Wald und enjoys the protection of Mother Nature."
+    },
+    "236": {
+      "name": "Guardian of the Labyrinth",
+      "description": "A Krieger das guards the entrance to the netherworld."
+    },
+    "237": {
+      "name": "Haniwa",
+      "description": "An earthen doll das protects the treasure im tombs of uralt kings."
+    },
+    "238": {
+      "name": "Yashinoki",
+      "description": "A palm tree mit a will of seine own das Angriff Feinde durch flinging coconuts."
+    },
+    "239": {
+      "name": "Vishwar Randi",
+      "description": "A woman Krieger das serves the forces of Dunkelheit."
+    },
+    "240": {
+      "name": "The Drdek",
+      "description": "An eyeball Kreatur mit legs für jumping high und delivering finishing blows mit seine sharp claws."
+    },
+    "241": {
+      "name": "Dark Assailant",
+      "description": "Armed mit Psycho Schwert, dieses sinister cutthroat rules the outer land."
+    },
+    "242": {
+      "name": "Candle of Fate",
+      "description": "An opponent's fate ist decided wenn the Flammen of each finger sind extinguished."
+    },
+    "243": {
+      "name": "Water Element",
+      "description": "A Wasser Geist das envelops seine opponent in a thick fog to cover seine Angriff."
+    },
+    "244": {
+      "name": "Dissolverock",
+      "description": "A Monster borne aus dem lava pits. Generates intensive heat das kann melt away seine Feinde."
+    },
+    "245": {
+      "name": "Meda Bat",
+      "description": "An eyeball Unterweltler created durch a servant of Dunkelheit. Uses \"Dark Spheres\" to blow away seine Feinde."
+    },
+    "246": {
+      "name": "One Who Hunts Souls",
+      "description": "A Kreatur mit a Schwert das gains seine Kraft aus dem Leben forces of seine victims."
+    },
+    "247": {
+      "name": "Root Water",
+      "description": "An amphibian capable of calling up a massive tidal wave von der Dunkelheit seas to wipe out feindlich Monster."
+    },
+    "248": {
+      "name": "Master & Expert",
+      "description": "Ein furchteinflößendes duo consisting of a Bestie master und seine loyal servant."
+    },
+    "249": {
+      "name": "Water Omotics",
+      "description": "Transforms the Wasser overflowing von a jar in attacking Drachen."
+    },
+    "250": {
+      "name": "Hyo",
+      "description": "An Eis Krieger whose slightest touch freezes an opponent."
+    },
+    "251": {
+      "name": "Enchanting Mermaid",
+      "description": "A beautiful mermaid das lures voyagers to a watery grave."
+    },
+    "252": {
+      "name": "Nekogal #1",
+      "description": "A cat Kreatur das looks cute to the eye aber delivers scratching blows mit seine sharp claws."
+    },
+    "253": {
+      "name": "Angelwitch",
+      "description": "A Kreatur das chose the path of sorcery to become a witch."
+    },
+    "254": {
+      "name": "Embryonic Beast",
+      "description": "A repulsive Monster mit a gaping belly das swallows almost anything."
+    },
+    "255": {
+      "name": "Prevent Rat",
+      "description": "Dieses Monster ist shielded durch a hide covered in thick hair."
+    },
+    "256": {
+      "name": "Dimensional Warrior",
+      "description": "A Monster capable of creating dimensional rifts to Falle seine Feinde."
+    },
+    "257": {
+      "name": "Stone Armadiller",
+      "description": "Mit a body armored durch rock-hard fur, dieses Monster features excellent Verteidigung capabilities."
+    },
+    "258": {
+      "name": "Beastking of the Swamps",
+      "description": "Dieses Kreatur changes the ground at seine feet in quicksand to ensnare seine Feinde."
+    },
+    "259": {
+      "name": "Ancient Sorcerer",
+      "description": "A master fighter das uses various staffs to render Feinde unconscious."
+    },
+    "260": {
+      "name": "Lunar Queen Elzaim",
+      "description": "A lovely moon goddess das kann throw up a lunar curtain to block feindlich Angriff."
+    },
+    "261": {
+      "name": "Wicked Mirror",
+      "description": "A malevolent mirror das hypnotizes a beholder und renders the victim susceptible to Angriff."
+    },
+    "262": {
+      "name": "The Little Swordsman of Aile",
+      "description": "An elf Krieger mounted on ein riesiges lizard."
+    },
+    "263": {
+      "name": "Rock Ogre Grotto #2",
+      "description": "A stone Golem das turns opponents in rocks und crushes them to dust."
+    },
+    "264": {
+      "name": "Wing Egg Elf",
+      "description": "Hiding within seine eggshell, dieses Kreatur blocks feindlich Angriff mit seine massive wings."
+    },
+    "265": {
+      "name": "The Furious Sea King",
+      "description": "Grand König des Seven Seas. Able to summon massive tidal waves to drown the feindlich."
+    },
+    "266": {
+      "name": "Princess of Tsurugi",
+      "description": "A Königin of Schwerter das ist virtually unequalled in her mastery of every blade imaginable to man."
+    },
+    "267": {
+      "name": "Unknown Warrior of Fiend",
+      "description": "The Geschwindigkeit of dieses Krieger creates an intense vacuum das kann actually slice durch a Monster's hide."
+    },
+    "268": {
+      "name": "Sectarian of Secrets",
+      "description": "A Zauberer das worships der Dunkelheit forces und kann summon a massive hand to drag away opponents in the netherworld."
+    },
+    "269": {
+      "name": "Versago the Destroyer",
+      "description": "A lord of destruction born aus dem heart of Dunkelheit, dieses Kreatur kann summon storms to zerstören opponents."
+    },
+    "270": {
+      "name": "Wetha",
+      "description": "A rain Geist das kann summon typhoons to blow away seine Feinde."
+    },
+    "271": {
+      "name": "Megirus Light",
+      "description": "Dieses Kreatur's ominous eyes kann unleash piercing rays gegen seine Feinde."
+    },
+    "272": {
+      "name": "Mavelus",
+      "description": "Related to the phoenix, dieses Kreatur dwells im Berge. Seine fiery breath ist extremely scorching."
+    },
+    "273": {
+      "name": "Ancient Tree of Enlightenment",
+      "description": "Armed mit a wealth of knowledge, dieses Monster ist able to block just about any Angriff."
+    },
+    "274": {
+      "name": "Green Phantom King",
+      "description": "Dieses youthful König des Wälder lives in a green world, abundant mit trees und wildlife."
+    },
+    "275": {
+      "name": "Ground Attacker Bugroth",
+      "description": "A land-based armored robot das ist said to once haben marine Angriff capabilities."
+    },
+    "276": {
+      "name": "Ray & Temperature",
+      "description": "The Sun und the North Wind join hands to deliver a verheerend combination of heat und gale-force winds."
+    },
+    "277": {
+      "name": "Gorgon Egg",
+      "description": "A gorgon's egg mit eyes said to create whatever Kreatur crosses seine view."
+    },
+    "278": {
+      "name": "Petit Moth",
+      "description": "Nobody hat any idea what Kreatur may spawn von dieses geheimnisvoll larva."
+    },
+    "279": {
+      "name": "King Fog",
+      "description": "A spectre das dwells in a blinding curtain of smoke."
+    },
+    "280": {
+      "name": "Protector of the Throne",
+      "description": "A Kreatur das protects the König's throne von usurpers."
+    },
+    "281": {
+      "name": "Mystic Clown",
+      "description": "Nothing kann stop the mad Angriff of dieses mächtig Kreatur."
+    },
+    "282": {
+      "name": "Mystical Sheep #2",
+      "description": "A monstrous sheep mit a long tail für hypnotizing Feinde to render them powerless."
+    },
+    "283": {
+      "name": "Holograh",
+      "description": "A Monster Maschine das generates images to confuse seine Feinde, making them prone to Angriff."
+    },
+    "284": {
+      "name": "Tao the Chanter",
+      "description": "A Magie-user das corrodes the yin und yang to create a twisted Kraft to Angriff Feinde."
+    },
+    "285": {
+      "name": "Serpent Marauder",
+      "description": "A snake mit a single eye das blows an icy breath to freeze seine opponents."
+    },
+    "286": {
+      "name": "Gatekeeper",
+      "description": "An indestructible Maschine built to protect key entrances."
+    },
+    "287": {
+      "name": "Ogre of the Black Shadow",
+      "description": "An ogre possessed durch the powers of der Dunkelheit. Few kann withstand seine rapid charge."
+    },
+    "288": {
+      "name": "Dark Artist",
+      "description": "A demented artist das creates objets d'art to crush Feinde."
+    },
+    "289": {
+      "name": "Change Slime",
+      "description": "A shape-shifting slime das ist capable of adopting the form of other creatures."
+    },
+    "290": {
+      "name": "Moon Envoy",
+      "description": "A servant des moon goddess, dieses Krieger wields a pike mit a spectacular crescent-shaped blade."
+    },
+    "291": {
+      "name": "Fireyarou",
+      "description": "A malevolent Kreatur wrapped in Flammen das Angriff Feinde mit intense Feuer."
+    },
+    "292": {
+      "name": "Psychic Kappa",
+      "description": "An amphibian mit extrasensory powers für blocking Angriff."
+    },
+    "293": {
+      "name": "Masaki the Legendary Swordsman",
+      "description": "Legendary swordmaster und a veteran of über 100 battles."
+    },
+    "294": {
+      "name": "Dragoness the Wicked Knight",
+      "description": "A Krieger equipped mit equipment fashioned von Drache scales."
+    },
+    "295": {
+      "name": "Bio Plant",
+      "description": "A monstrous Kreatur born von a failed lab experiment."
+    },
+    "296": {
+      "name": "One-eyed Shield Dragon",
+      "description": "Dieses Drache wears a Schild nicht nur für seine own protection aber auch für ramming seine Feinde."
+    },
+    "297": {
+      "name": "Cyber Soldier of Darkworld",
+      "description": "An unstoppable mechanical Soldat powered durch dark forces."
+    },
+    "298": {
+      "name": "Wicked Dragon with the Ersatz Head",
+      "description": "A two-headed Drache mit a pair of vicious jaws für crushing seine Feinde."
+    },
+    "299": {
+      "name": "Sonic Maid",
+      "description": "A maiden das uses sound to her advantage. She wields a scythe das's shaped like a musical note."
+    },
+    "300": {
+      "name": "Kurama",
+      "description": "A vicious bird das Angriff aus dem skies mit seine whip-like tail."
+    },
+    "301": {
+      "name": "Legendary Sword",
+      "description": "A Schwert das brings out the best in Krieger. It cannot be used durch servants of der Dunkelheit."
+    },
+    "302": {
+      "name": "Sword of Dark Destruction",
+      "description": "Dark forces increase the Kraft of Warriors!"
+    },
+    "303": {
+      "name": "Dark Energy",
+      "description": "Dark forces increase the Kraft of Fiends und other Monster des Dark!"
+    },
+    "304": {
+      "name": "Axe of Despair",
+      "description": "Fiends und Bestie-Warriors kann constantly use their maximum Stärke!"
+    },
+    "305": {
+      "name": "Laser Cannon Armor",
+      "description": "Arms Insects mit ein mächtiges laser!"
+    },
+    "306": {
+      "name": "Insect Armor with Laser Cannon",
+      "description": "Allows Insects to Feuer an intense blast of Feuer!"
+    },
+    "307": {
+      "name": "Elf's Light",
+      "description": "Increases the Kraft of elves mit mystical Licht!"
+    },
+    "308": {
+      "name": "Beast Fangs",
+      "description": "Increases the Kraft of Beasts und other fanged Monster!"
+    },
+    "309": {
+      "name": "Steel Shell",
+      "description": "Boosts the Kraft of shelled Monster! Said to haben kein effect on those without shells."
+    },
+    "310": {
+      "name": "Vile Germs",
+      "description": "Vile microbes boost the Kraft of Plants im woods!"
+    },
+    "311": {
+      "name": "Black Pendant",
+      "description": "Dieses pendant grants extra Kraft to Dark sorcerers!"
+    },
+    "312": {
+      "name": "Silver Bow and Arrow",
+      "description": "Silver bow und arrow enhances the Kraft of Fairies."
+    },
+    "313": {
+      "name": "Horn of Light",
+      "description": "Increases the Kraft of horned creatures! Has kein effect on Dark Monster."
+    },
+    "314": {
+      "name": "Horn of the Unicorn",
+      "description": "Increases the Kraft of Dark Monster mit horns!"
+    },
+    "315": {
+      "name": "Dragon Treasure",
+      "description": "Ein legendäres treasure das increases the Kraft of Drachen."
+    },
+    "316": {
+      "name": "Electro-whip",
+      "description": "A whip für paralyzing Feinde. Increases Kraft wenn equipped mit female creatures."
+    },
+    "317": {
+      "name": "Cyber Shield",
+      "description": "Increases the Kraft of female Monster durch changing their attitudes."
+    },
+    "318": {
+      "name": "Elegant Egotist",
+      "description": "Creates two doppelgangers of Harpy Lady für three-pronged Angriff!"
+    },
+    "319": {
+      "name": "Mystical Moon",
+      "description": "Moonlight increases the Kraft of Beasts!"
+    },
+    "320": {
+      "name": "Stop Defense",
+      "description": "Forces an opponent's Monster card positioned für Verteidigung in the Angriff position."
+    },
+    "321": {
+      "name": "Malevolent Nuzzler",
+      "description": "Diabolic forces act to increase the Kraft of female und Dark Monster!"
+    },
+    "322": {
+      "name": "Violet Crystal",
+      "description": "Mystic forces aus dem crystal increase the Kraft of Zombies."
+    },
+    "323": {
+      "name": "Book of Secret Arts",
+      "description": "A Magie book für increasing the Kraft of Magie-users. It cannot be used durch bad-hearted sorcerers."
+    },
+    "324": {
+      "name": "Invigoration",
+      "description": "Increases the Kraft of Donner, Rock, und Pyro Monster."
+    },
+    "325": {
+      "name": "Machine Conversion Factory",
+      "description": "A manufacturing facility das tunes up alle Maschine Monster."
+    },
+    "326": {
+      "name": "Raise Body Heat",
+      "description": "Absorbs the sun's energy to increase the Kraft of Dinosaurs!"
+    },
+    "327": {
+      "name": "Follow Wind",
+      "description": "The winds provide support to increase the Kraft of Winged Beasts und other flying Monster!"
+    },
+    "328": {
+      "name": "Power of Kaishin",
+      "description": "Poseidon's Strength ist shared to boost the Kraft of Aqua, Fisch, und Meer Schlange Monster!"
+    },
+    "329": {
+      "name": "Dragon Capture Jar",
+      "description": "Zerstört alle opponent Drache Monster on the playfield!"
+    },
+    "330": {
+      "name": "Forest",
+      "description": "Changes the Feld in favor of Bestie-Krieger, Insekt, Pflanze, und Bestie Monster!"
+    },
+    "331": {
+      "name": "Wasteland",
+      "description": "Changes the Feld in favor of Zombie, Dinosaurier und Rock Monster!"
+    },
+    "332": {
+      "name": "Mountain",
+      "description": "Changes the Feld in favor of Drache, Winged Bestie, und Donner Monster!"
+    },
+    "333": {
+      "name": "Sogen",
+      "description": "Changes the Feld to meadow land in favor of Krieger und Bestie-Krieger Monster!"
+    },
+    "334": {
+      "name": "Umi",
+      "description": "Changes the Feld in favor of Aqua und Donner Monster, aber unfavorable to Maschine und Pyro Monster!"
+    },
+    "335": {
+      "name": "Yami",
+      "description": "Changes the Feld in favor of Magie-User und Unterweltler Monster, aber unfavorable to Fee Monster!"
+    },
+    "336": {
+      "name": "Dark Hole",
+      "description": "Sucks up every card in play on the Feld!"
+    },
+    "337": {
+      "name": "Raigeki",
+      "description": "Zerstört every opposing Monster mit a stroke of Blitz!"
+    },
+    "338": {
+      "name": "Mooyan Curry",
+      "description": "A delicious beef curry increases Leben Points durch 200!"
+    },
+    "339": {
+      "name": "Red Medicine",
+      "description": "A Magie potion das increases Leben Points durch 500!"
+    },
+    "340": {
+      "name": "Goblin's Secret Remedy",
+      "description": "A goblin's herb das increases Leben Points durch 1000!"
+    },
+    "341": {
+      "name": "Soul of the Pure",
+      "description": "A Fee potion das increases Leben Points durch 2000!"
+    },
+    "342": {
+      "name": "Dian Keto the Cure Master",
+      "description": "A mystical Kraft das increases Leben Points durch 5000!"
+    },
+    "343": {
+      "name": "Sparks",
+      "description": "A shower of sparks inflicts 50 points of damage to your opponent's Leben Points!!"
+    },
+    "344": {
+      "name": "Hinotama",
+      "description": "A fireball inflicts 100 points of damage to your opponent's Leben Points!!"
+    },
+    "345": {
+      "name": "Final Flame",
+      "description": "Flames inflict 200 points of damage to your opponent's Leben Points!!"
+    },
+    "346": {
+      "name": "Ookazi",
+      "description": "Flames inflict 500 points of damage to your opponent's Leben Points!"
+    },
+    "347": {
+      "name": "Tremendous Fire",
+      "description": "An inferno inflicts 1000 points of damage to your opponent's Leben Points!"
+    },
+    "348": {
+      "name": "Swords of Revealing Light",
+      "description": "Feindlich Monster sind revealed und your opponent cannot Angriff für three turns."
+    },
+    "349": {
+      "name": "Spellbinding Circle",
+      "description": "A Fluch reduces the Kraft of alle feindlich Monster!"
+    },
+    "350": {
+      "name": "Dark-piercing Light",
+      "description": "A dazzling Licht reveals alle Monster on the playing Feld."
+    },
+    "351": {
+      "name": "Yaranzo",
+      "description": "A Monster das Angriff anybody der attempts to open seine lid."
+    },
+    "352": {
+      "name": "Kanan the Swordmistress",
+      "description": "A lady swordsman das floats like a butterfly und stings like a bee."
+    },
+    "353": {
+      "name": "Takriminos",
+      "description": "A finned Kreatur distantly related to Meer Drachen."
+    },
+    "354": {
+      "name": "Stuffed Animal",
+      "description": "A deceptively cute stuffed animal das bites."
+    },
+    "355": {
+      "name": "Megasonic Eye",
+      "description": "A cryptic doomsday Maschine das comes aus dem edge des universe."
+    },
+    "356": {
+      "name": "Super War-lion",
+      "description": "A sehr vicious lion mit sharp und long claws."
+    },
+    "357": {
+      "name": "Yamadron",
+      "description": "A three-headed, Feuer-breathing Monster."
+    },
+    "358": {
+      "name": "Seiyaryu",
+      "description": "A sacred Drache das burns away wickedness mit seine mystical Flammen."
+    },
+    "359": {
+      "name": "Three-legged Zombies",
+      "description": "Bony und Tubby, a friendly pair of skeletons."
+    },
+    "360": {
+      "name": "Zera The Mant",
+      "description": "Ein riesiges, brutal Monster das Angriff mit razor-sharp claws."
+    },
+    "361": {
+      "name": "Flying Penguin",
+      "description": "A rare penguin das flies mit dem wings on seine head."
+    },
+    "362": {
+      "name": "Millennium Shield",
+      "description": "A Millennium Item candidate das ist said to block any mächtig Angriff."
+    },
+    "363": {
+      "name": "Fairy's Gift",
+      "description": "Flies around spreading happiness to alle."
+    },
+    "364": {
+      "name": "Black Luster Soldier",
+      "description": "Ein mächtiges Krieger mit dem same capabilities as the legendary Blue-eyes White Drache."
+    },
+    "365": {
+      "name": "Fiend's Mirror",
+      "description": "An arcane glass das draws seine Feinde in the mirror world."
+    },
+    "366": {
+      "name": "Labyrinth Wall",
+      "description": "Walls appear on the Feld to form a Labyrinth mit kein exit."
+    },
+    "367": {
+      "name": "Jirai Gumo",
+      "description": "A Monster spider das dwells unter the Erde."
+    },
+    "368": {
+      "name": "Shadow Ghoul",
+      "description": "Ein gefährliches Zombie das crawls in der Dunkelheit."
+    },
+    "369": {
+      "name": "Wall Shadow",
+      "description": "An unusually fast Monster das sweeps across walls to Angriff seine Feinde."
+    },
+    "370": {
+      "name": "Labyrinth Tank",
+      "description": "A tank das races around a Labyrinth hunting down seine Feinde."
+    },
+    "371": {
+      "name": "Sanga of the Thunder",
+      "description": "A Golem das uses Blitz Angriff similar to the Labyrinth Brothers."
+    },
+    "372": {
+      "name": "Kazejin",
+      "description": "A Golem das controls the winds like the Labyrinth Brothers."
+    },
+    "373": {
+      "name": "Suijin",
+      "description": "A Golem das uses Wasser Angriff like the Labyrinth Brothers."
+    },
+    "374": {
+      "name": "Gate Guardian",
+      "description": "Sanga, Kazejin, und Suijin join to form a single, mächtig Monster."
+    },
+    "375": {
+      "name": "Dungeon Worm",
+      "description": "Verborgen unter the floors of a Labyrinth, it swallows any der pass above."
+    },
+    "376": {
+      "name": "Monster Tamer",
+      "description": "A master of Monster das exercises control über several creatures."
+    },
+    "377": {
+      "name": "Ryu-kishin Powered",
+      "description": "Ryu-kishin enhanced durch the powers of Dunkelheit. Very sharp talons make it a worthy opponent."
+    },
+    "378": {
+      "name": "Swordstalker",
+      "description": "A Monster formed durch the vengeful Seelen of those der passed away in Kampf."
+    },
+    "379": {
+      "name": "La Jinn the Mystical Genie",
+      "description": "A genie des lamp das's at the beck und call of seine master."
+    },
+    "380": {
+      "name": "Blue-eyes Ultimate Dragon",
+      "description": "The ultimate Drache formed durch the fusion of three Blue-eyes White Drachen."
+    },
+    "381": {
+      "name": "Toon Alligator",
+      "description": "An alligator Monster straight aus dem cartoons."
+    },
+    "382": {
+      "name": "Rude Kaiser",
+      "description": "Mit an axe in each hand, dieses Monster delivers heavy damage."
+    },
+    "383": {
+      "name": "Parrot Dragon",
+      "description": "A Drache aus dem cartoons das's more gefährlich than it appears to be."
+    },
+    "384": {
+      "name": "Dark Rabbit",
+      "description": "A cartoon rabbit das quickly leaps alle über the place, making it a difficult target."
+    },
+    "385": {
+      "name": "Bickuribox",
+      "description": "A jack-in-the-box das excels in surprise Angriff."
+    },
+    "386": {
+      "name": "Harpie's Pet Dragon",
+      "description": "A favorite pet für harpies, aber a sehr gefährlich Drache."
+    },
+    "387": {
+      "name": "Mystic Lamp",
+      "description": "A lamp used durch wizards to mix potions."
+    },
+    "388": {
+      "name": "Pendulum Machine",
+      "description": "A horrible torture Maschine mit a large pendulum blade."
+    },
+    "389": {
+      "name": "Giltia the D. Knight",
+      "description": "Armed mit a Seele-searing spear, dieses Kreatur favors Magie Angriff."
+    },
+    "390": {
+      "name": "Launcher Spider",
+      "description": "A spider Maschine das launches explosive rockets gegen seine Feinde."
+    },
+    "391": {
+      "name": "Zoa",
+      "description": "A Monster whose full potential kann be achieved wenn transformed in seine metal form."
+    },
+    "392": {
+      "name": "Metalzoa",
+      "description": "A metallic Zoa capable of intensive Angriff."
+    },
+    "393": {
+      "name": "Zone Eater",
+      "description": "A Meer Kreatur das swallows Feinde und slowly digests them."
+    },
+    "394": {
+      "name": "Steel Scorpion",
+      "description": "An iron-tailed Monster equipped mit sehr sharp scissors."
+    },
+    "395": {
+      "name": "Dancing Elf",
+      "description": "An elf das dances across the sky mit wings of razor-sharp blades."
+    },
+    "396": {
+      "name": "Ocubeam",
+      "description": "Frightening in appearance, dieses Kreatur uses seine large eyes und ears to keep track of any movement."
+    },
+    "397": {
+      "name": "Leghul",
+      "description": "Not a sehr mächtig Monster despite seine large fangs und spikes."
+    },
+    "398": {
+      "name": "Ooguchi",
+      "description": "A monstrous bullfrog mit Gift spikes."
+    },
+    "399": {
+      "name": "Swordsman from a Foreign Land",
+      "description": "An eastern Krieger armed mit a cursed Schwert."
+    },
+    "400": {
+      "name": "Emperor of the Land and Sea",
+      "description": "A Feuer-breathing reptilian Monster."
+    },
+    "401": {
+      "name": "Ushi Oni",
+      "description": "A bull Monster resurrected durch der Dunkelheit arts das appears von inside a jar."
+    },
+    "402": {
+      "name": "Monster Eye",
+      "description": "A servant das maintains a close watch on anything und everything. It throws up a smokescreen wenn discovered."
+    },
+    "403": {
+      "name": "Leogun",
+      "description": "Riesig Monster mit a lion's mane similar to the \"König of Beasts\"."
+    },
+    "404": {
+      "name": "Tatsunootoshigo",
+      "description": "A fast-moving Meer Monster das hat the bodies of a horse und a Fisch."
+    },
+    "405": {
+      "name": "Saber Slasher",
+      "description": "A rampaging Maschine das wields a massive Schwert."
+    },
+    "406": {
+      "name": "Yaiba Robo",
+      "description": "A Maschine mit several blades verborgen within seine square body."
+    },
+    "407": {
+      "name": "Machine King",
+      "description": "Armored mit super alloy, dieses robot Angriff mit blasts of Feuer launched von both arms."
+    },
+    "408": {
+      "name": "Giant Mech-soldier",
+      "description": "Dieses Monster swings an Erde-shaking axe das kann eliminate Feinde mit a single blow."
+    },
+    "409": {
+      "name": "Metal Dragon",
+      "description": "A golden, Feuer-breathing Drache das burns any opponent in seine path."
+    },
+    "410": {
+      "name": "Mechanical Spider",
+      "description": "A spider-shaped, mechanized Monster mit sickles at the end of seine legs."
+    },
+    "411": {
+      "name": "Bat",
+      "description": "A mechanized bat das Angriff durch dropping explosion orbs."
+    },
+    "412": {
+      "name": "Giga-tech Wolf",
+      "description": "A wolf made entirely of iron. Seine steel jaws kann bite durch anything."
+    },
+    "413": {
+      "name": "Cyber Soldier",
+      "description": "Round-shaped Soldaten das roll around und act as guardians to the Maschine König."
+    },
+    "414": {
+      "name": "Shovel Crusher",
+      "description": "Armed mit a pair of shovels, dieses Kreatur ist a walking engine of destruction."
+    },
+    "415": {
+      "name": "Mechanicalchacer",
+      "description": "A Jäger das relentlessly pursues seine target durch order des Maschine König."
+    },
+    "416": {
+      "name": "Blocker",
+      "description": "Each separate part of dieses Kreatur ist an individual Waffe capable of verheerend Angriff."
+    },
+    "417": {
+      "name": "Blast Juggler",
+      "description": "A walking time device das loves to blow Feinde away."
+    },
+    "418": {
+      "name": "Golgoil",
+      "description": "A massive iron Golem das appears von a dimensional rift."
+    },
+    "419": {
+      "name": "Giganto",
+      "description": "Dieses Kreatur swings around ein riesiges spiked ball to zerstören seine Feinde."
+    },
+    "420": {
+      "name": "Cyber-Stein",
+      "description": "Created in a basement lab, dieses infernal Maschine launches rockets von within seine mouth."
+    },
+    "421": {
+      "name": "Cyber Commander",
+      "description": "A strike force equipped mit rader detectors und sensors."
+    },
+    "422": {
+      "name": "Jinzo #7",
+      "description": "Created in an underground lab, dieses artificial being occasionally goes berserk."
+    },
+    "423": {
+      "name": "Dice Armadillo",
+      "description": "An armadillo-like Kreatur das forms a die whenever it rolls up seine body."
+    },
+    "424": {
+      "name": "Sky Dragon",
+      "description": "A bird-like Drache mit four bladed wings."
+    },
+    "425": {
+      "name": "Thunder Dragon",
+      "description": "A Drache das summons Donner und Blitz to Angriff seine opponents."
+    },
+    "426": {
+      "name": "Stone D.",
+      "description": "Mit a body consisting entirely of rocks, dieses Drache flings boulders at seine Feinde."
+    },
+    "427": {
+      "name": "Kaiser Dragon",
+      "description": "A sehr proud und mächtig Drache emperor."
+    },
+    "428": {
+      "name": "Magician of Faith",
+      "description": "Despite seine schwach Stärke, dieses Kreatur ist capable of casting Zauber to eliminate Dunkelheit."
+    },
+    "429": {
+      "name": "Goddess of Whim",
+      "description": "A shy goddess das seems to spend the majority of her time sleeping."
+    },
+    "430": {
+      "name": "Water Magician",
+      "description": "Dieses Kreatur surrounds opponents mit Wasser und envelops them in a sweeping Angriff."
+    },
+    "431": {
+      "name": "Ice Water",
+      "description": "A sehr aggressive mermaid mit spikes für attacking Feinde."
+    },
+    "432": {
+      "name": "Waterdragon Fairy",
+      "description": "A Fee das wanders the seas. Rumored to haben the capabilities für summoning Meer Drachen."
+    },
+    "433": {
+      "name": "Ancient Elf",
+      "description": "Dieses elf ist rumored to haben lived für thousands of years. He leads an army of spirits gegen his Feinde."
+    },
+    "434": {
+      "name": "Beautiful Beast Trainer",
+      "description": "A rare female Magie-user armed mit a vicious whip."
+    },
+    "435": {
+      "name": "Water Girl",
+      "description": "A beautiful Kreatur das flings icy arrows."
+    },
+    "436": {
+      "name": "White Dolphin",
+      "description": "A white, horned dolphin das Angriff durch calling up tidal waves."
+    },
+    "437": {
+      "name": "Deepsea Shark",
+      "description": "A violent shark das Angriff anything im Meer."
+    },
+    "438": {
+      "name": "Metal Fish",
+      "description": "A steel Fisch armed mit a sharp dorsal fin."
+    },
+    "439": {
+      "name": "Bottom Dweller",
+      "description": "A beautiful swimmer mit a sehr nasty temperament."
+    },
+    "440": {
+      "name": "7 Colored Fish",
+      "description": "A rare rainbow Fisch das ist almost impossible to catch."
+    },
+    "441": {
+      "name": "Mech Bass",
+      "description": "Dieses Kreatur carries a plasma cannon on seine back."
+    },
+    "442": {
+      "name": "Aqua Dragon",
+      "description": "A Drache das dwells im Meer. It ist capable of spitting high-pressure blasts of Wasser."
+    },
+    "443": {
+      "name": "Sea King Dragon",
+      "description": "The König des seas, dieses Kreatur ist protected durch a solid shell und spits poisonous bubbles at seine Feinde."
+    },
+    "444": {
+      "name": "Turu-Purun",
+      "description": "Ein seltsames, one-eyed Monster armed mit a gefährlich spear."
+    },
+    "445": {
+      "name": "Guardian of the Sea",
+      "description": "A merman Krieger das Angriff anyone der dares to pollute the Meer."
+    },
+    "446": {
+      "name": "Aqua Snake",
+      "description": "A Kreatur das drowns seine opponents durch mesmerizing them mit dem ball on the end of seine tail."
+    },
+    "447": {
+      "name": "Giant Red Seasnake",
+      "description": "A Meer Schlange das bites anything das passes nearby."
+    },
+    "448": {
+      "name": "Spike Seadra",
+      "description": "Using the spikes sprouting von seine body, dieses Kreatur stabs seine opponents und floods them mit electricity."
+    },
+    "449": {
+      "name": "30,000-Year White Turtle",
+      "description": "A massive und well-protected giant turtle das hat lived über 30000 years."
+    },
+    "450": {
+      "name": "Kappa Avenger",
+      "description": "An amphibian sworn to avenge the Tod of seine brothers."
+    },
+    "451": {
+      "name": "Kanikabuto",
+      "description": "A crab Monster mit two massive scissors für cutting up Feinde."
+    },
+    "452": {
+      "name": "Zarigun",
+      "description": "A newly evolved crayfish mit sharp scissors für clipping the feindlich."
+    },
+    "453": {
+      "name": "Millennium Golem",
+      "description": "A Golem das hat protected treasure für nearly a millennium."
+    },
+    "454": {
+      "name": "Destroyer Golem",
+      "description": "A Golem mit a massive right hand für crushing seine victims."
+    },
+    "455": {
+      "name": "Barrel Rock",
+      "description": "A Monster das charges in Feinde firing a pair of cannons mounted on seine shoulders."
+    },
+    "456": {
+      "name": "Minomushi Warrior",
+      "description": "A rock Krieger das wields a sehr heavy Schwert carved von stone."
+    },
+    "457": {
+      "name": "Stone Ghost",
+      "description": "A Kreatur das erupts mit anger, resulting in a crushing rain of boulders."
+    },
+    "458": {
+      "name": "Kaminari Attack",
+      "description": "A Monster das judges wrong-doers und punishes them appropriately."
+    },
+    "459": {
+      "name": "Tripwire Beast",
+      "description": "Dieses Kreatur Angriff Feinde mit electromagnetic waves."
+    },
+    "460": {
+      "name": "Bolt Escargot",
+      "description": "Dieses Kreatur spits a gooey substance das robs Feinde of mobility und then stuns them mit electric shocks."
+    },
+    "461": {
+      "name": "Bolt Penguin",
+      "description": "A Monster mit a pair of electric whips instead of arms."
+    },
+    "462": {
+      "name": "The Immortal of Thunder",
+      "description": "A Kreatur das Angriff Feinde mit thunderbolts."
+    },
+    "463": {
+      "name": "Electric Snake",
+      "description": "A Schlange mit a tail für storing electricity."
+    },
+    "464": {
+      "name": "Wing Eagle",
+      "description": "A Jäger des skies das hat never missed a target."
+    },
+    "465": {
+      "name": "Punished Eagle",
+      "description": "A judge des skies das delivers a sentence mit seine punishing silver-white claws."
+    },
+    "466": {
+      "name": "Skull Red Bird",
+      "description": "Dieses Monster swoops down und Angriff mit a rain of knives stored in seine wings."
+    },
+    "467": {
+      "name": "Crimson Sunbird",
+      "description": "A Monster burning mit crimson Flammen und capable of delivering a rain of sparks durch flapping seine wings."
+    },
+    "468": {
+      "name": "Queen Bird",
+      "description": "A Kreatur das Angriff seine Feinde mit seine large beak."
+    },
+    "469": {
+      "name": "Armed Ninja",
+      "description": "A blue ninja das Angriff mit a large sickle und spiked feet."
+    },
+    "470": {
+      "name": "Magical Ghost",
+      "description": "Dieses Kreatur casts a Zauber of terror und confusion just before attacking seine Feinde."
+    },
+    "471": {
+      "name": "Soul Hunter",
+      "description": "Dieses clown feeds the Leben force of seine Feinde to a monstrous lizard."
+    },
+    "472": {
+      "name": "Air Eater",
+      "description": "A Monster das suffocates seine feindlich durch feeding on the surrounding air supply."
+    },
+    "473": {
+      "name": "Vermillion Sparrow",
+      "description": "A fiery Krieger Kreatur das unleashes intense heat von seine body."
+    },
+    "474": {
+      "name": "Sea Kamen",
+      "description": "A cruel Monster das slices up Feinde mit seine sharp claws."
+    },
+    "475": {
+      "name": "Sinister Serpent",
+      "description": "A flying Gift snake das ist nicht sehr good at maneuvering on the ground."
+    },
+    "476": {
+      "name": "Ganigumo",
+      "description": "A spider armed mit scissors to Angriff anything das it traps in seine web."
+    },
+    "477": {
+      "name": "Alinsection",
+      "description": "A stag beetle Monster mit saw-toothed horn und arms."
+    },
+    "478": {
+      "name": "Insect Soldiers of the Sky",
+      "description": "Insekt Soldaten das Angriff in swarms."
+    },
+    "479": {
+      "name": "Cockroach Knight",
+      "description": "A cockroach Krieger das hides in small spaces und emerges to Angriff Feinde."
+    },
+    "480": {
+      "name": "Kuwagata a",
+      "description": "A violent stag beetle mit a razor-like cutter."
+    },
+    "481": {
+      "name": "Burglar",
+      "description": "A clever mouse mit a sharpened left claw."
+    },
+    "482": {
+      "name": "Pragtical",
+      "description": "A sehr gefährlich Monster mit spikes on seine head und tail."
+    },
+    "483": {
+      "name": "Garvas",
+      "description": "A malevolent Kreatur das resembles a winged lion."
+    },
+    "484": {
+      "name": "Ameba",
+      "description": "A Monster das envelops an feindlich und slowly digests it."
+    },
+    "485": {
+      "name": "Korogashi",
+      "description": "Dieses Kreatur rolls massive objects to crush seine Feinde."
+    },
+    "486": {
+      "name": "Boo Koo",
+      "description": "A book Magier mit page after page of potent Zauber."
+    },
+    "487": {
+      "name": "Flower Wolf",
+      "description": "A Bestie covered in flowers von head to toe."
+    },
+    "488": {
+      "name": "Rainbow Flower",
+      "description": "A flower Kreatur mit rainbow-colored blossoms das lure an feindlich in seine waiting jaws."
+    },
+    "489": {
+      "name": "Barrel Lily",
+      "description": "Ein gefährliches flower das fires pollen projectiles."
+    },
+    "490": {
+      "name": "Needle Ball",
+      "description": "A ball covered in sharp needles. Usually rains down on Feinde in a group."
+    },
+    "491": {
+      "name": "Peacock",
+      "description": "A beautiful peacock- like Kreatur das fires seine feathers at opponents."
+    },
+    "492": {
+      "name": "Hoshiningen",
+      "description": "Trailed durch a beautiful tail, dieses shooting star inflicts damage wenn it hits an feindlich."
+    },
+    "493": {
+      "name": "Maha Vailo",
+      "description": "A Magier dressed in blue der ist usually found meditating."
+    },
+    "494": {
+      "name": "Rainbow Marine Mermaid",
+      "description": "An unusual mermaid das appears whenever a rainbow bridges the sky."
+    },
+    "495": {
+      "name": "Musician King",
+      "description": "A fantastic guitar player das Angriff Feinde mit ultrasonic emissions."
+    },
+    "496": {
+      "name": "Wilmee",
+      "description": "A wild rabbit mit sharp claws."
+    },
+    "497": {
+      "name": "Yado Karu",
+      "description": "A hermit crab mit dem head of a Drache."
+    },
+    "498": {
+      "name": "Morinphen",
+      "description": "Ein seltsames Unterweltler mit long arms und razor-sharp talons."
+    },
+    "499": {
+      "name": "Kattapillar",
+      "description": "Angriff durch blowing webs at seine Feinde. Nobody knows what the final form of dieses Insekt might be."
+    },
+    "500": {
+      "name": "Dragon Seeker",
+      "description": "Ein furchteinflößendes Monster sent aus dem netherworld to zerstören Drachen."
+    },
+    "501": {
+      "name": "Man-eater Bug",
+      "description": "A Kreatur das slices und dices mit seine scissors und feeds off seine victims."
+    },
+    "502": {
+      "name": "D. Human",
+      "description": "Gifted mit dem Kraft of Drachen, dieses Krieger wields a Schwert created von a Drache's fang."
+    },
+    "503": {
+      "name": "Turtle Raccoon",
+      "description": "A fox-like Kreatur mit a protective shell."
+    },
+    "504": {
+      "name": "Fungi of the Musk",
+      "description": "A Monster das leaks acid von seine pores to melt anything das touches seine skin."
+    },
+    "505": {
+      "name": "Prisman",
+      "description": "A clear crystal das focuses Licht to create ein mächtiges laser beam."
+    },
+    "506": {
+      "name": "Gale Dogra",
+      "description": "Ein riesiges moth das generates a whirlwind containing Gift dust."
+    },
+    "507": {
+      "name": "Crazy Fish",
+      "description": "A flying Fisch mit a sharp head für piercing targets."
+    },
+    "508": {
+      "name": "Cyber Saurus",
+      "description": "A mechanical Dinosaurier equipped mit a beam cannon."
+    },
+    "509": {
+      "name": "Bracchio-raidus",
+      "description": "A colossal Dinosaurier das stomps on anything das wanders in seine path."
+    },
+    "510": {
+      "name": "Laughing Flower",
+      "description": "A laughing flower whose chuckles kann drive an feindlich mad."
+    },
+    "511": {
+      "name": "Bean Soldier",
+      "description": "A Pflanze Krieger das Angriff mit a combination of Schwert-swings und pea projectiles."
+    },
+    "512": {
+      "name": "Cannon Soldier",
+      "description": "A highly destructive Maschine armed mit ein mächtiges cannon."
+    },
+    "513": {
+      "name": "Guardian of the Throne Room",
+      "description": "A sentry robot armed mit homing rockets für guarding throne rooms von intruders."
+    },
+    "514": {
+      "name": "Brave Scizzar",
+      "description": "A Kreatur capable of manipulating several scissors mit definite results."
+    },
+    "515": {
+      "name": "The Statue of Easter Island",
+      "description": "A massive stone idol von Easter Island das fires laser rings von seine mouth."
+    },
+    "516": {
+      "name": "Muka Muka",
+      "description": "A Monster das angers an opponent to the point das the feindlich goes berserk."
+    },
+    "517": {
+      "name": "Sand Stone",
+      "description": "Appears von underground und Angriff mit long, snake-like tentacles."
+    },
+    "518": {
+      "name": "Boulder Tortoise",
+      "description": "A stone turtle mit a sehr high Verteidigung factor."
+    },
+    "519": {
+      "name": "Fire Kraken",
+      "description": "A fiery squid das kann maintain seine Flammen underwater."
+    },
+    "520": {
+      "name": "Turtle Bird",
+      "description": "A rare flying turtle das inhabits the Meer."
+    },
+    "521": {
+      "name": "Skullbird",
+      "description": "The breath von dieses bird robs creatures of their Leben force."
+    },
+    "522": {
+      "name": "Monstrous Bird",
+      "description": "Ein riesiges bird known für seine sharp dive Angriff."
+    },
+    "523": {
+      "name": "The Bistro Butcher",
+      "description": "Defeated Feinde serve as ingredients für dieses gourmet Monster."
+    },
+    "524": {
+      "name": "Star Boy",
+      "description": "An extraterrestrial Leben form das loves living in Wasser."
+    },
+    "525": {
+      "name": "Spirit of the Mountain",
+      "description": "Music von dieses Kreatur's flute kann drain an feindlich's willpower."
+    },
+    "526": {
+      "name": "Neck Hunter",
+      "description": "Armed mit ein riesiges sickle, dieses Monster kann Feuer beams von seine large eyes."
+    },
+    "527": {
+      "name": "Milus Radiant",
+      "description": "Often mistaken as a cute pet, dieses Kreatur ist a sehr gefährlich Bestie."
+    },
+    "528": {
+      "name": "Togex",
+      "description": "A sehr fast Monster das rolls up und rams seine Feinde."
+    },
+    "529": {
+      "name": "Flame Cerebrus",
+      "description": "A flaming Bestie das ist lethal to the touch."
+    },
+    "530": {
+      "name": "Eldeen",
+      "description": "Uses a wand to cast various Zauber gegen an feindlich."
+    },
+    "531": {
+      "name": "Mystical Sand",
+      "description": "Turns Feinde to stone und crushes them to dust."
+    },
+    "532": {
+      "name": "Gemini Elf",
+      "description": "Elf twins das Angriff an feindlich von opposite sides."
+    },
+    "533": {
+      "name": "Kwagar Hercules",
+      "description": "An Insekt Monster mit dem jaws of a stag beetle und the horn of a beetle."
+    },
+    "534": {
+      "name": "Minar",
+      "description": "A Monster mit four highly dexterous arms für executing separate Angriff."
+    },
+    "535": {
+      "name": "Kamakiriman",
+      "description": "A man-shaped mantis mit two razor-sharp scythes."
+    },
+    "536": {
+      "name": "Mechaleon",
+      "description": "A chameleon-like Monster das kann hide anywhere durch changing colors."
+    },
+    "537": {
+      "name": "Mega Thunderball",
+      "description": "Rolls along the ground releasing bolts of electricity to Angriff seine Feinde."
+    },
+    "538": {
+      "name": "Niwatori",
+      "description": "Swallows Feinde whole und uses their essence as energy."
+    },
+    "539": {
+      "name": "Corroding Shark",
+      "description": "A Zombie shark das wanders the Ozean depths, cursing any das dare cross seine path."
+    },
+    "540": {
+      "name": "Skelengel",
+      "description": "A phantom Fee das fires countless arrows at anything das harbors an urge to Angriff."
+    },
+    "541": {
+      "name": "Hane-Hane",
+      "description": "Dieses Kreatur blocks feindlich movement mit gale-force winds und Angriff mit a massive Kampf axe."
+    },
+    "542": {
+      "name": "Misairuzame",
+      "description": "A rocket-launching Fisch protected durch thorny spikes."
+    },
+    "543": {
+      "name": "Tongyo",
+      "description": "Dieses Kreatur ist powered durch the Leben force des fishes it captures mit seine long tongue."
+    },
+    "544": {
+      "name": "Dharma Cannon",
+      "description": "A highly accurate mechanical Monster covered mit large- caliber cannons."
+    },
+    "545": {
+      "name": "Skelgon",
+      "description": "A skeletal Zombie Drache das ist capable of flying across the skies."
+    },
+    "546": {
+      "name": "Wow Warrior",
+      "description": "A massive Bestie of a Fisch mit arms, legs, und razor-sharp teeth."
+    },
+    "547": {
+      "name": "Griggle",
+      "description": "Dieses Monster spins about seine feindlich launching blinding leaves und painful seeds."
+    },
+    "548": {
+      "name": "Bone Mouse",
+      "description": "A Zombie rat das hunts felines."
+    },
+    "549": {
+      "name": "Frog The Jam",
+      "description": "A slime Kreatur mit a frog's head das croaks as it Angriff."
+    },
+    "550": {
+      "name": "Behegon",
+      "description": "Ein seltsames Meer Schlange mit a massive mouth lined mit riesig fangs."
+    },
+    "551": {
+      "name": "Dark Elf",
+      "description": "A wicked elf das just loves to engage in Kampf."
+    },
+    "552": {
+      "name": "Winged Dragon #2",
+      "description": "Creates mächtig tornadoes mit seine riesig wings."
+    },
+    "553": {
+      "name": "Mushroom Man #2",
+      "description": "A fully grown Mushroom Man mit an increased Angriff factor."
+    },
+    "554": {
+      "name": "Lava Battleguard",
+      "description": "Dieses brother of Sumpf Battleguard may nicht be mächtig, aber ist pretty good on Verteidigung."
+    },
+    "555": {
+      "name": "Tyhone #2",
+      "description": "A crimson Drache das spits fireballs at seine Feinde."
+    },
+    "556": {
+      "name": "The Wandering Doomed",
+      "description": "A Monster das aimlessly wanders in search of Feinde."
+    },
+    "557": {
+      "name": "Steel Ogre Grotto #1",
+      "description": "A steel idol worshipped im Land of Machines."
+    },
+    "558": {
+      "name": "Pot the Trick",
+      "description": "A nicht sehr reliable Zauberer's servant."
+    },
+    "559": {
+      "name": "Oscillo Hero",
+      "description": "Ein seltsames Krieger von another dimension."
+    },
+    "560": {
+      "name": "Invader from Another Dimension",
+      "description": "A Kreatur das came von another galaxy."
+    },
+    "561": {
+      "name": "Lesser Dragon",
+      "description": "A low-class, minor Drache incapable of breathing Feuer."
+    },
+    "562": {
+      "name": "Needle Worm",
+      "description": "A larva mit steel spikes to Angriff the unwary."
+    },
+    "563": {
+      "name": "Wretched Ghost of the Attic",
+      "description": "A harmless Kreatur usually found im attic of any home."
+    },
+    "564": {
+      "name": "Great Mammoth of Goldfine",
+      "description": "A sehr unusual skeletal Zombie elephant mit glowing gold bones."
+    },
+    "565": {
+      "name": "Man-eating Black Shark",
+      "description": "A black shark das kann detect almost any scent im Wasser."
+    },
+    "566": {
+      "name": "Yormungarde",
+      "description": "A sehr long snake das often appears in legends und myths."
+    },
+    "567": {
+      "name": "Darkworld Thorns",
+      "description": "A thorny Pflanze found im darklands das wraps itself around any unwary traveler."
+    },
+    "568": {
+      "name": "Anthrosaurus",
+      "description": "Man-like Dinosaurier lacking in Stärke, aber mit a high I.Q."
+    },
+    "569": {
+      "name": "Drooling Lizard",
+      "description": "A blood-sucking snake in human form das Angriff any living being das passes nearby."
+    },
+    "570": {
+      "name": "Trakadon",
+      "description": "A tiger-striped Drache das ist often seen racing across the Ödland mit tremendous Geschwindigkeit."
+    },
+    "571": {
+      "name": "B. Dragon Jungle King",
+      "description": "A jet-black Drache das inhabits the jungles und feeds on trees."
+    },
+    "572": {
+      "name": "Empress Judge",
+      "description": "Empress des Golden Kingdom. None may refuse her will."
+    },
+    "573": {
+      "name": "Little D",
+      "description": "A sehr wild Monster spawned von a T-Rex."
+    },
+    "574": {
+      "name": "Witch of the Black Forest",
+      "description": "Dieses Wald-dwelling witch kann see alle mit dem eye on her forehead."
+    },
+    "575": {
+      "name": "Ancient One of the Deep Forest",
+      "description": "A white goat das hat inhabited the Wald für ages. The Kreatur ist actually an elder des woods."
+    },
+    "576": {
+      "name": "Giant Scorpion of the Tundra",
+      "description": "A rare scarlet scorpion das kann be found im tundra -- nicht im Wüste."
+    },
+    "577": {
+      "name": "Crow Goblin",
+      "description": "A sehr wise, long-nosed goblin mit supernatural powers."
+    },
+    "578": {
+      "name": "Leo Wizard",
+      "description": "A Magier mit a black cape das ist actually a talking lion disguised as a man."
+    },
+    "579": {
+      "name": "Abyss Flower",
+      "description": "A rare flower das blooms in a pitch-dark abyss."
+    },
+    "580": {
+      "name": "Patrol Robo",
+      "description": "A cutting-edge robot das eliminates intruders upon detection."
+    },
+    "581": {
+      "name": "Takuhee",
+      "description": "Dieses bird ist a precursor to disaster!!"
+    },
+    "582": {
+      "name": "Dark Witch",
+      "description": "A popular Kreatur in mythology das delivers judgement mit a sharp spear."
+    },
+    "583": {
+      "name": "Weather Report",
+      "description": "Dieses Kreatur ist known to predict the weather mit sehr little accuracy."
+    },
+    "584": {
+      "name": "Binding Chain",
+      "description": "Dieses Kreatur corners seine Feinde und seals away their Kraft."
+    },
+    "585": {
+      "name": "Mechanical Snail",
+      "description": "A mechanically enhanced snail das ist kein faster than it used to be."
+    },
+    "586": {
+      "name": "Greenkappa",
+      "description": "A Kreatur das transforms in the image of seine feindlich und copies every offensive move."
+    },
+    "587": {
+      "name": "Mon Larvas",
+      "description": "A highly evolved Larvas das ist sogar more mächtig than before."
+    },
+    "588": {
+      "name": "Living Vase",
+      "description": "A living vase das blinds Feinde mit pollen und Angriff mit seine sharp teeth."
+    },
+    "589": {
+      "name": "Tentacle Plant",
+      "description": "Angriff a nearby opponent durch reaching out mit seine blue vines."
+    },
+    "590": {
+      "name": "Beaked Snake",
+      "description": "Wraps seine coils around opponents und pecks them mit seine riesig beak."
+    },
+    "591": {
+      "name": "Morphing Jar",
+      "description": "A large jar das Angriff nearby Feinde durch unleashing the Monster it contains inside."
+    },
+    "592": {
+      "name": "Muse-A",
+      "description": "A Fee des arts und an excellent harp player."
+    },
+    "593": {
+      "name": "Giant Turtle Who Feeds on Flames",
+      "description": "A Monster turtle mit a crimson shell. It feeds on Feuer."
+    },
+    "594": {
+      "name": "Rose Spectre of Dunn",
+      "description": "A red rose possessed durch a vile Geist das feeds on the Leben force of others to provide the flower mit nourishment."
+    },
+    "595": {
+      "name": "Fiend Refrection #1",
+      "description": "Drags Feinde in a mirror world."
+    },
+    "596": {
+      "name": "Ghoul with an Appetite",
+      "description": "A Monster das kann eat alle it wants aber ist never fulfilled."
+    },
+    "597": {
+      "name": "Pale Beast",
+      "description": "Mit skin tinged a bluish white, dieses strange Kreatur ist a furchteinflößend sight to behold."
+    },
+    "598": {
+      "name": "Little Chimera",
+      "description": "A Monster created von an experimental attempt to graft wings on Bestien."
+    },
+    "599": {
+      "name": "Violent Rain",
+      "description": "A Monster capable of bringing on sudden rain showers."
+    },
+    "600": {
+      "name": "Key Mace #2",
+      "description": "Seals away the good in a Seele to create a wicked being."
+    },
+    "601": {
+      "name": "Tenderness",
+      "description": "A cute Fee dedicated to bringing about eternal love."
+    },
+    "602": {
+      "name": "Penguin Soldier",
+      "description": "A low-class penguin Soldat das Angriff in a group."
+    },
+    "603": {
+      "name": "Fairy Dragon",
+      "description": "A beautiful und mächtig Drache Fee."
+    },
+    "604": {
+      "name": "Obese Marmot of Nefariousness",
+      "description": "An ill-mannered Feld mouse das chews on anything."
+    },
+    "605": {
+      "name": "Liquid Beast",
+      "description": "A liquid Leben form das moves freely in Wasser."
+    },
+    "606": {
+      "name": "Twin Long Rods #2",
+      "description": "An undersea Kreatur das Angriff mit two whip-like tails."
+    },
+    "607": {
+      "name": "Great Bill",
+      "description": "A Monster mit a massive maw das allows it to swallow an feindlich whole."
+    },
+    "608": {
+      "name": "Shining Friendship",
+      "description": "The peacemaker among Monster."
+    },
+    "609": {
+      "name": "Bladefly",
+      "description": "A Monster fly das swoops down mit sharp Schwert-like arms extended out front."
+    },
+    "610": {
+      "name": "Electric Lizard",
+      "description": "A lizard das discharges electricity stored in seine body."
+    },
+    "611": {
+      "name": "Hiro's Shadow Scout",
+      "description": "A servant of fiends used primarily für scouting an area."
+    },
+    "612": {
+      "name": "Lady of Faith",
+      "description": "Soothes the Seelen of others durch chanting ein geheimnisvolles Zauber."
+    },
+    "613": {
+      "name": "Twin-headed Thunder Dragon",
+      "description": "A two-headed Donner Drache capable of mächtig electric Angriff."
+    },
+    "614": {
+      "name": "Hunter Spider",
+      "description": "A Jäger das uses seine spider web to entrap seine Feinde."
+    },
+    "615": {
+      "name": "Armored Starfish",
+      "description": "A bluish starfish mit a solid hide capable of fending off Angriff."
+    },
+    "616": {
+      "name": "Hourglass of Courage",
+      "description": "A Fee das controls the feelings of others, instilling them mit bravery."
+    },
+    "617": {
+      "name": "Marine Beast",
+      "description": "A Meer Kreatur mit sharp teeth das won't release a victim once they're locked on."
+    },
+    "618": {
+      "name": "Warrior of Tradition",
+      "description": "A lady Krieger drenched im essence von a thousand battlefields."
+    },
+    "619": {
+      "name": "Rock Spirit",
+      "description": "A clay idol representing a rock Geist. The Kreatur hat significant Angriff und Verteidigung factors."
+    },
+    "620": {
+      "name": "Snakeyashi",
+      "description": "A Kreatur made up of several snakes das Angriff separately in Kampf."
+    },
+    "621": {
+      "name": "Succubus Knight",
+      "description": "A vile Krieger Magier adept at casting doom-dealing Zauber."
+    },
+    "622": {
+      "name": "Ill Witch",
+      "description": "Controls air currents und kann generate a sudden gust of Wind to blow away an opponent."
+    },
+    "623": {
+      "name": "The Thing That Hides in the Mud",
+      "description": "The appearance of dieses Kreatur ist preceded durch the ground melting unter an opponent's feet."
+    },
+    "624": {
+      "name": "High Tide Gyojin",
+      "description": "An amphibian Krieger das kann easily navigate beneath the waters."
+    },
+    "625": {
+      "name": "Fairy of the Fountain",
+      "description": "A Fee dedicated to protecting fountains von pollution."
+    },
+    "626": {
+      "name": "Amazon of the Seas",
+      "description": "A mermaid sentry serving the Meer König und his kingdom."
+    },
+    "627": {
+      "name": "Nekogal #2",
+      "description": "Dieses fast Kreatur kann easily elude feindlich Angriff und counter them mit seine vicious claws."
+    },
+    "628": {
+      "name": "Witch's Apprentice",
+      "description": "An inexperienced witch der just started learning the mystic arts."
+    },
+    "629": {
+      "name": "Armored Rat",
+      "description": "A rat das ist protected durch Rüstung-like fur."
+    },
+    "630": {
+      "name": "Ancient Lizard Warrior",
+      "description": "Ein mächtiges, prehistoric lizard Krieger."
+    },
+    "631": {
+      "name": "Maiden of the Moonlight",
+      "description": "A lunar Zauberer das uses mystical Zauber to induce hallucinations."
+    },
+    "632": {
+      "name": "Stone Ogre Grotto",
+      "description": "A rock giant consisting of massive boulders."
+    },
+    "633": {
+      "name": "Winged Egg of New Life",
+      "description": "A messenger of newborn Leben."
+    },
+    "634": {
+      "name": "Night Lizard",
+      "description": "A green-scaled lizard Krieger dedicated to protecting the Meer."
+    },
+    "635": {
+      "name": "Queen's Double",
+      "description": "Not sehr useful double of a Königin."
+    },
+    "636": {
+      "name": "Blue-winged Crown",
+      "description": "A bird das glows mit blue Flammen und hat a head of hair shaped like a crown."
+    },
+    "637": {
+      "name": "Trent",
+      "description": "A protector des Wald, dieses massive tree continues to grow."
+    },
+    "638": {
+      "name": "Queen of Autumn Leaves",
+      "description": "Königin des Tree Geist der ist embraced durch brilliant autumn leaves."
+    },
+    "639": {
+      "name": "Amphibious Bugroth",
+      "description": "A Bugroth unit modified für underwater warfare."
+    },
+    "640": {
+      "name": "Acid Crawler",
+      "description": "A gigantic caterpillar das spits acid capable of melting almost anything."
+    },
+    "641": {
+      "name": "Invader of the Throne",
+      "description": "A scheming Königin der covets the König's throne during his absence."
+    },
+    "642": {
+      "name": "Mystical Sheep #1",
+      "description": "A black-haired sheep das ist capable of sorcery."
+    },
+    "643": {
+      "name": "Disk Magician",
+      "description": "A Kreatur das hides in a saucer und appears nur to Angriff Feinde."
+    },
+    "644": {
+      "name": "Flame Viper",
+      "description": "A sehr schnell, Feuer-breathing viper."
+    },
+    "645": {
+      "name": "Royal Guard",
+      "description": "Mechanical Soldat mit a mind of seine own. Originally created to protect members des royal family."
+    },
+    "646": {
+      "name": "Gruesome Goo",
+      "description": "Looks like any other slime, aber definitely much more mächtig!"
+    },
+    "647": {
+      "name": "Hyosube",
+      "description": "Dieses amphibian Kreatur boasts a high Angriff factor, aber nicht much of one für Verteidigung."
+    },
+    "648": {
+      "name": "Machine Attacker",
+      "description": "A Maschine designed to blitz seine Feinde."
+    },
+    "649": {
+      "name": "Hibikime",
+      "description": "Confuses feindlich Monster mit noise das ist harsh to the ears."
+    },
+    "650": {
+      "name": "Whiptail Crow",
+      "description": "Angriff aus dem skies mit a whip-like tail."
+    },
+    "651": {
+      "name": "Kunai with Chain",
+      "description": "A boomerang featuring the effects of two cards: the Legendary Schwert und the Schwert of Dark Destruction."
+    },
+    "652": {
+      "name": "Magical Labyrinth",
+      "description": "A card für boosting the Kraft des Labyrinth Wall."
+    },
+    "653": {
+      "name": "Warrior Elimination",
+      "description": "Zerstört alle opponent Krieger cards played on the Feld."
+    },
+    "654": {
+      "name": "Salamandra",
+      "description": "Increases the Stärke of those der control the Kraft of Salamandra."
+    },
+    "655": {
+      "name": "Cursebreaker",
+      "description": "Cancels the Magie über alle level-reduced Monster und sets them at level 0."
+    },
+    "656": {
+      "name": "Eternal Rest",
+      "description": "Eliminates alle Zombie creatures."
+    },
+    "657": {
+      "name": "Megamorph",
+      "description": "A card das increases the Kraft of any selected Monster durch 2 levels."
+    },
+    "658": {
+      "name": "Metalmorph",
+      "description": "A card das changes any selected Monster to a Maschine Monster."
+    },
+    "659": {
+      "name": "Winged Trumpeter",
+      "description": "A horn das increases the Kraft of Fee creatures."
+    },
+    "660": {
+      "name": "Stain Storm",
+      "description": "Acid rain zerstört an opponent's Maschine Monster."
+    },
+    "661": {
+      "name": "Crush Card",
+      "description": "Opponent Monster in play mit Angriff factors of 1500 oder more sind eliminated."
+    },
+    "662": {
+      "name": "Eradicating Aerosol",
+      "description": "An insecticide für wiping out an opponent's Insekt Monster das sind currently in play."
+    },
+    "663": {
+      "name": "Breath of Light",
+      "description": "A Magie Wind das reduces to rubble an opponent's Rock Monster das sind currently in play."
+    },
+    "664": {
+      "name": "Eternal Draught",
+      "description": "A blast of heat dries up und eliminates an opponent's Fisch Monster das sind currently in play."
+    },
+    "665": {
+      "name": "Curse of Millennium Shield",
+      "description": "Sacrifices the Monster mit dem highest Verteidigung rating und summons Schild."
+    },
+    "666": {
+      "name": "Yamadron Ritual",
+      "description": "Sacrifices Bestie-Krieger, Drache, und Pyro Monster to summon Yamadron."
+    },
+    "667": {
+      "name": "Gate Guardian Ritual",
+      "description": "Sacrifices Kazejin, Suijin, und Sanga des Donner to summon Gate Wächter."
+    },
+    "668": {
+      "name": "Bright Castle",
+      "description": "A glaring Licht das increases the Kraft of alle Monster."
+    },
+    "669": {
+      "name": "Shadow Spell",
+      "description": "Decreases an opponent's in-play Monster durch two levels."
+    },
+    "670": {
+      "name": "Black Luster Ritual",
+      "description": "Ceremony conducted to summon Black Luster Soldat. Sacrifice required."
+    },
+    "671": {
+      "name": "Zera Ritual",
+      "description": "Ceremony conducted to summon Zera. Sacrifice required."
+    },
+    "672": {
+      "name": "Harpie's Feather Duster",
+      "description": "Zerstört alle opponent Magie cards das sind in play."
+    },
+    "673": {
+      "name": "War-lion Ritual",
+      "description": "Ceremony conducted to summon Krieg Lion. Sacrifice required."
+    },
+    "674": {
+      "name": "Beastry Mirror Ritual",
+      "description": "Ceremony conducted to summon Unterweltler's Mirror. Sacrifice required."
+    },
+    "675": {
+      "name": "Ultimate Dragon",
+      "description": "Sacrifice three Blue-eyes to summon Ultimate Drache."
+    },
+    "676": {
+      "name": "Commencement Dance",
+      "description": "Sacrifice Dancer und Krieger to summon Performance of Schwert."
+    },
+    "677": {
+      "name": "Hamburger Recipe",
+      "description": "A card mit dem ingredients für making a delicious hamburger."
+    },
+    "678": {
+      "name": "Revival of Sennen Genjin",
+      "description": "Sacrifice Bestie-Krieger und Golem to summon Sengenjin."
+    },
+    "679": {
+      "name": "Novox's Prayer",
+      "description": "Sacrifice Krieger und Scythe Wielder to summon Skull Wächter."
+    },
+    "680": {
+      "name": "Curse of Tri-Horned Dragon",
+      "description": "Sacrifice a horned Monster to summon Tri-Horned Drache."
+    },
+    "681": {
+      "name": "House of Adhesive Tape",
+      "description": "Monsters mit Angriff Factors of 500 oder lower sind eliminated aus dem play Feld."
+    },
+    "682": {
+      "name": "Eatgaboon",
+      "description": "Monsters mit Angriff Factors of 1000 oder lower sind eliminated aus dem play Feld."
+    },
+    "683": {
+      "name": "Bear Trap",
+      "description": "Wenn an opposing Monster's Angriff Factor ist 1500 oder lower, it ist eliminated aus dem play Feld."
+    },
+    "684": {
+      "name": "Invisible Wire",
+      "description": "Wenn an opposing Monster's Angriff Factor ist 2000 oder lower, it ist eliminated aus dem play Feld."
+    },
+    "685": {
+      "name": "Acid Trap Hole",
+      "description": "Wenn an opposing Monster's Angriff Factor ist 3000 oder lower, it ist eliminated aus dem play Feld."
+    },
+    "686": {
+      "name": "Widespread Ruin",
+      "description": "Wenn an opponent's Monster Angriff, it ist blown to smithereens und eliminated aus dem play Feld."
+    },
+    "687": {
+      "name": "Goblin Fan",
+      "description": "Reflects the damage of direct Angriff cards like Feuer Sparks und Inferno back to your opponent."
+    },
+    "688": {
+      "name": "Bad Reaction to Simochi",
+      "description": "A card das reverses the effects of recovery cards und transforms the points to damage."
+    },
+    "689": {
+      "name": "Reverse Trap",
+      "description": "A card das reverses the effects of Kraft-up cards und transforms the effects to Kraft reduction."
+    },
+    "690": {
+      "name": "Fake Trap",
+      "description": "A Falle card für tricking your opponent. Nothing happens wenn it ist attacked."
+    },
+    "691": {
+      "name": "Revived of Serpent Night Dragon",
+      "description": "Select a specific Monster für sacrifice und summon Schlange Night Drache."
+    },
+    "692": {
+      "name": "Turtle Oath",
+      "description": "Sacrifice crab und turtle to summon Crab Turtle."
+    },
+    "693": {
+      "name": "Contruct of Mask",
+      "description": "Sacrifice a masked one to summon a new mask."
+    },
+    "694": {
+      "name": "Resurrection of Chakra",
+      "description": "Sacrifice 3 Unterweltler Monster to conduct the ritual für the Resurrection of Chakra."
+    },
+    "695": {
+      "name": "Puppet Ritual",
+      "description": "Sacrifice Puppeteer und Maschine Monster to summon the Puppet."
+    },
+    "696": {
+      "name": "Javelin Beetle Pact",
+      "description": "Sacrifice the stag beetle und beetle to summon Javelin Beetle."
+    },
+    "697": {
+      "name": "Garma Sword Oath",
+      "description": "Sacrifice the Ashura's Arm und Schwert-wielder to summon."
+    },
+    "698": {
+      "name": "Cosmo Queen's Prayer",
+      "description": "Sacrifice a normal Königin to summon Cosmo Königin."
+    },
+    "699": {
+      "name": "Revival of Skeleton Rider",
+      "description": "Sacrifice Temple und Cockroach to summon Dokurorider."
+    },
+    "700": {
+      "name": "Fortress Whale's Oath",
+      "description": "Sacrifice Horn und Maschine Fisch to summon Meer Fortress."
+    },
+    "701": {
+      "name": "Performance of Sword",
+      "description": "A Krieger dancer mit fancy dance steps."
+    },
+    "702": {
+      "name": "Hungry Burger",
+      "description": "Attracts hungry Feinde mit tasty aromas und eats them wenn they get close enough."
+    },
+    "703": {
+      "name": "Sengenjin",
+      "description": "A headstrong, primitive man equipped mit a Millennium Item."
+    },
+    "704": {
+      "name": "Skull Guardian",
+      "description": "A Wächter des law das doesn't forgive cheating. Angriff Feinde mit seine Schwert-like arms."
+    },
+    "705": {
+      "name": "Tri-horned Dragon",
+      "description": "A wicked Drache mit three horns protruding von seine head."
+    },
+    "706": {
+      "name": "Serpent Night Dragon",
+      "description": "A Drache created aus dem Seele of a wicked Ritter."
+    },
+    "707": {
+      "name": "Skull Knight",
+      "description": "A monk der hat conducted several rituals im netherworld, und der ist capable of using both Waffen und Magie."
+    },
+    "708": {
+      "name": "Cosmo Queen",
+      "description": "A Königin der rules über alle the stars im universe."
+    },
+    "709": {
+      "name": "Chakra",
+      "description": "A twisting shape das Angriff mit tentacle-like arms."
+    },
+    "710": {
+      "name": "Crab Turtle",
+      "description": "A Kreatur mit a turtle shell und crab scissors to provide high Angriff und Verteidigung factors."
+    },
+    "711": {
+      "name": "Mikazukinoyaiba",
+      "description": "A Drache Krieger armed mit a crescent-shaped Schwert. Rumored to be aus dem moon."
+    },
+    "712": {
+      "name": "Meteor Dragon",
+      "description": "A Drache das arrived on Erde durch means of a comet das fell aus dem far reaches of space."
+    },
+    "713": {
+      "name": "Meteor B. Dragon",
+      "description": "Mit the burning hide of a meteorite, dieses Kreatur vaporizes alle das it touches."
+    },
+    "714": {
+      "name": "Firewing Pegasus",
+      "description": "A heavenly stallion das flies across the skies on scarlet wings."
+    },
+    "715": {
+      "name": "Psycho-Puppet",
+      "description": "Ein geheimnisvolles doll mit a strange dance das robs the Kraft of opposing Monster."
+    },
+    "716": {
+      "name": "Garma Sword",
+      "description": "A skilled Krieger das wields six Schwerter gegen opposing Monster."
+    },
+    "717": {
+      "name": "Javelin Beetle",
+      "description": "A Kreatur mit lethal scissors das cut durch almost anything."
+    },
+    "718": {
+      "name": "Fortress Whale",
+      "description": "A Meer Monster mit a cannon mounted on seine back to blow seine Feinde out des Wasser."
+    },
+    "719": {
+      "name": "Dokurorider",
+      "description": "A lonely rider das races across the Ödland, raising thick clouds of dust."
+    },
+    "720": {
+      "name": "Mask of Shine & Dark",
+      "description": "A Kreatur das twists the fabric of Licht und Dunkelheit to generate images to confuse opponents."
+    },
+    "721": {
+      "name": "Dark Magic Ritual",
+      "description": "Ceremony für summoning the Magician of Black Chaos. Sacrifice required."
+    },
+    "722": {
+      "name": "Magician of Black Chaos",
+      "description": "The ultimate Magie-user, der wields the Kraft of chaos borne aus dem fusion of Dark und Licht."
+    }
+  },
+  "opponents": {
+    "1": {
+      "name": "Simon Muran",
+      "title": "Der Wächter",
+      "flavor": "Ein uralter Weiser, der über die Millenniumsgegenstände wacht."
+    },
+    "2": {
+      "name": "Jono",
+      "title": "Treuer Freund",
+      "flavor": "Ein treuer Gefährte aus dem Dorf."
+    },
+    "3": {
+      "name": "Teana",
+      "title": "Dorfpriesterin",
+      "flavor": "Eine gutherzige Priesterin aus dem Dorf."
+    },
+    "4": {
+      "name": "Villager",
+      "title": "Einfacher Bauer",
+      "flavor": "Ein Dorfbewohner, der gerne Kartenspiele spielt."
+    },
+    "5": {
+      "name": "Villager",
+      "title": "Wanderhändler",
+      "flavor": "Ein reisender Händler mit ein paar Karten."
+    },
+    "6": {
+      "name": "Villager",
+      "title": "Dorfältester",
+      "flavor": "Der erfahrenste Duellant im Dorf."
+    },
+    "7": {
+      "name": "Rex Raptor",
+      "title": "Dinosaurier-Duellant",
+      "flavor": "Ein Duellant, der mächtige Dinosaurier befehligt."
+    },
+    "8": {
+      "name": "Weevil Underwood",
+      "title": "Insektenmeister",
+      "flavor": "Ein listiger Stratege, der Insekten einsetzt."
+    },
+    "9": {
+      "name": "Mai Valentine",
+      "title": "Harpyien-Dame",
+      "flavor": "Eine elegante Duellantin mit mächtigen Flügelungeheuern."
+    },
+    "10": {
+      "name": "Bandit Keith",
+      "title": "Maschinenkommandant",
+      "flavor": "Ein rücksichtsloser Duellant, der auf Maschinen setzt."
+    },
+    "11": {
+      "name": "Shadi",
+      "title": "Millenniumswächter",
+      "flavor": "Ein geheimnisvoller Wächter der Millenniumsgegenstände."
+    },
+    "12": {
+      "name": "Yami Bakura",
+      "title": "Dunkler Geist",
+      "flavor": "Der dunkle Geist im Millenniumsring."
+    },
+    "13": {
+      "name": "Pegasus",
+      "title": "Schöpfer der Duellmonster",
+      "flavor": "Der Schöpfer des Kartenspiels mit dem Millenniumsauge."
+    },
+    "14": {
+      "name": "Isis",
+      "title": "Priesterin des Lichts",
+      "flavor": "Eine uralte Priesterin, die dem Pharao dient."
+    },
+    "15": {
+      "name": "Kaiba",
+      "title": "Drachenmeister",
+      "flavor": "Ein mächtiger Duellant, der den Blauäugigen Weißen Drachen befehligt."
+    },
+    "16": {
+      "name": "Jono 2nd",
+      "title": "Wiedergeborener Krieger",
+      "flavor": "Jono kehrt stärker als zuvor zurück."
+    },
+    "17": {
+      "name": "Teana 2nd",
+      "title": "Erwachte Priesterin",
+      "flavor": "Teana mit erwachten Kräften."
+    },
+    "18": {
+      "name": "Mage Soldier",
+      "title": "Dunkle Armee",
+      "flavor": "Ein Soldat in Heishins dunkler Armee."
+    },
+    "19": {
+      "name": "Ocean Mage",
+      "title": "Hüter des Wasserschreins",
+      "flavor": "Wächter des Wasserschreins."
+    },
+    "20": {
+      "name": "High Mage Secmeton",
+      "title": "Arkanmeister",
+      "flavor": "Ein mächtiger Magier im Dienste Heishins."
+    },
+    "21": {
+      "name": "Forest Mage",
+      "title": "Hüter des Waldschreins",
+      "flavor": "Wächter des Waldschreins."
+    },
+    "22": {
+      "name": "Mountain Mage",
+      "title": "Hüter des Bergschreins",
+      "flavor": "Wächter des Bergschreins."
+    },
+    "23": {
+      "name": "Meadow Mage",
+      "title": "Hüter des Wiesenschreins",
+      "flavor": "Wächter des Wiesenschreins."
+    },
+    "24": {
+      "name": "Labyrinth Mage",
+      "title": "Labyrinthwächter",
+      "flavor": "Meister des tödlichen Labyrinths."
+    },
+    "25": {
+      "name": "Seto",
+      "title": "Hohepriester",
+      "flavor": "Der ehrgeizige Hohepriester am Hof des Pharaos."
+    },
+    "26": {
+      "name": "Heishin",
+      "title": "Dunkler Zauberer",
+      "flavor": "Ein dunkler Zauberer, der die Millenniumsgegenstände sucht."
+    },
+    "27": {
+      "name": "Seto 2nd",
+      "title": "Entfesselter Priester",
+      "flavor": "Seto offenbart seine wahre Macht."
+    },
+    "28": {
+      "name": "Heishin 2nd",
+      "title": "Dunkler Fürst",
+      "flavor": "Heishin, gestärkt durch dunkle Magie."
+    },
+    "29": {
+      "name": "DarkNite",
+      "title": "Schattenkreatur",
+      "flavor": "Ein Wesen aus reiner Dunkelheit, beschworen von Heishin."
+    },
+    "30": {
+      "name": "Nitemare",
+      "title": "Ultimative Dunkelheit",
+      "flavor": "Die letzte Verkörperung von Schatten und Chaos."
+    },
+    "31": {
+      "name": "Seto 3rd",
+      "title": "Ewiger Rivale",
+      "flavor": "Die ultimative Prüfung der Fähigkeiten."
+    },
+    "32": {
+      "name": "Duel Master K",
+      "title": "Maschinenexperte",
+      "flavor": "Ein Meister der mechanischen Monster."
+    },
+    "33": {
+      "name": "Fiend Guardian",
+      "title": "Hüter des Dunkelschreins",
+      "flavor": "Wächter des Dunkelschreins."
+    },
+    "34": {
+      "name": "Aqua Guardian",
+      "title": "Hüter der Tiefsee",
+      "flavor": "Wächter des Unterwasserreichs."
+    },
+    "35": {
+      "name": "Flame Guardian",
+      "title": "Hüter des Feuerschreins",
+      "flavor": "Wächter des Feuerschreins."
+    },
+    "36": {
+      "name": "Earth Guardian",
+      "title": "Hüter des Steinschreins",
+      "flavor": "Wächter des Steinschreins."
+    },
+    "37": {
+      "name": "Wind Guardian",
+      "title": "Hüter des Himmelsschreins",
+      "flavor": "Wächter des Windschreins."
+    },
+    "38": {
+      "name": "Light Guardian",
+      "title": "Hüter des Heiligen Schreins",
+      "flavor": "Wächter des Lichtschreins."
+    },
+    "39": {
+      "name": "Shadow Guardian",
+      "title": "Hüter des Untotenschreins",
+      "flavor": "Wächter des Schattenschreins."
+    }
+  },
+  "races": {
+    "Dragon": "Drache",
+    "Spellcaster": "Hexer",
+    "Warrior": "Krieger",
+    "BeastWarrior": "Tierkrieger",
+    "Beast": "Ungeheuer",
+    "WingedBeast": "Geflügeltes Ungeheuer",
+    "Fiend": "Unterweltler",
+    "Zombie": "Zombie",
+    "Aqua": "Aqua",
+    "Pyro": "Pyro",
+    "Rock": "Felsen",
+    "Plant": "Pflanze",
+    "Insect": "Insekt",
+    "Fish": "Fisch",
+    "SeaSerpent": "Seeschlange",
+    "Reptile": "Reptil",
+    "Machine": "Maschine",
+    "Thunder": "Donner",
+    "Dinosaur": "Dinosaurier",
+    "Fairy": "Fee"
+  },
+  "attributes": {
+    "Light": "Licht",
+    "Dark": "Finsternis",
+    "Fire": "Feuer",
+    "Water": "Wasser",
+    "Earth": "Erde",
+    "Wind": "Wind"
+  },
+  "cardTypes": {
+    "Monster": "Monster",
+    "Fusion": "Fusionsmonster",
+    "Magic": "Magie",
+    "Trap": "Falle",
+    "Equip": "Ausrüstung"
+  },
+  "shop": {
+    "apprentice_pack": {
+      "name": "Lehrlings-Pack",
+      "desc": "9 Karten - Anfänger - Max. 1200 ATK"
+    },
+    "soldier_pack": {
+      "name": "Soldaten-Pack",
+      "desc": "9 Karten - Fortgeschritten - Max. 1600 ATK"
+    },
+    "guardian_pack": {
+      "name": "Wächter-Pack",
+      "desc": "9 Karten - Erfahren - Max. 2000 ATK"
+    },
+    "priest_pack": {
+      "name": "Priester-Pack",
+      "desc": "9 Karten - Experte - Max. 2400 ATK"
+    },
+    "pharaoh_pack": {
+      "name": "Pharao-Pack",
+      "desc": "9 Karten - Elite - Max. 2800 ATK"
+    },
+    "millennium_pack": {
+      "name": "Millennium-Pack",
+      "desc": "9 Karten - Ultimativ - Alle Karten"
+    }
+  }
+}

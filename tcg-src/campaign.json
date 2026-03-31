@@ -1,0 +1,460 @@
+{
+  "chapters": [
+    {
+      "id": "ch_beginning",
+      "titleKey": "campaign.ch_beginning_title",
+      "nodes": [
+        {
+          "id": "story_intro",
+          "type": "story",
+          "position": { "x": 400, "y": 30 },
+          "mapIcon": null,
+          "unlockCondition": null,
+          "rewards": null,
+          "scene": {
+            "background": "bg_ancient_egypt",
+            "dialogue": [
+              { "textKey": "campaign.story_intro_1", "speaker": "Narrator", "portrait": null, "side": "left", "foregrounds": null }
+            ]
+          }
+        },
+        {
+          "id": "duel_1",
+          "type": "duel",
+          "position": { "x": 400, "y": 100 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "story_intro" },
+          "rewards": { "coins": 100 },
+          "opponentId": 1,
+          "isBoss": false
+        },
+        {
+          "id": "duel_2",
+          "type": "duel",
+          "position": { "x": 400, "y": 170 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_1" },
+          "rewards": { "coins": 100 },
+          "opponentId": 2,
+          "isBoss": false
+        },
+        {
+          "id": "duel_3",
+          "type": "duel",
+          "position": { "x": 400, "y": 240 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_2" },
+          "rewards": { "coins": 100 },
+          "opponentId": 3,
+          "isBoss": false
+        },
+        {
+          "id": "shop_1",
+          "type": "shop",
+          "position": { "x": 400, "y": 310 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_3" },
+          "rewards": null
+        },
+        {
+          "id": "duel_4",
+          "type": "duel",
+          "position": { "x": 400, "y": 380 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "shop_1" },
+          "rewards": { "coins": 100 },
+          "opponentId": 4,
+          "isBoss": false
+        },
+        {
+          "id": "duel_5",
+          "type": "duel",
+          "position": { "x": 400, "y": 450 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_4" },
+          "rewards": { "coins": 100 },
+          "opponentId": 5,
+          "isBoss": false
+        },
+        {
+          "id": "duel_6",
+          "type": "duel",
+          "position": { "x": 400, "y": 520 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_5" },
+          "rewards": { "coins": 100 },
+          "opponentId": 6,
+          "isBoss": false
+        }
+      ]
+    },
+    {
+      "id": "ch_tournament",
+      "titleKey": "campaign.ch_tournament_title",
+      "nodes": [
+        {
+          "id": "story_tournament",
+          "type": "story",
+          "position": { "x": 400, "y": 30 },
+          "mapIcon": null,
+          "unlockCondition": null,
+          "rewards": null,
+          "scene": {
+            "background": "bg_tournament",
+            "dialogue": [
+              { "textKey": "campaign.story_tournament_1", "speaker": "Narrator", "portrait": null, "side": "left", "foregrounds": null }
+            ]
+          }
+        },
+        {
+          "id": "duel_7",
+          "type": "duel",
+          "position": { "x": 400, "y": 100 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "story_tournament" },
+          "rewards": { "coins": 150 },
+          "opponentId": 7,
+          "isBoss": false
+        },
+        {
+          "id": "duel_8",
+          "type": "duel",
+          "position": { "x": 400, "y": 170 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_7" },
+          "rewards": { "coins": 150 },
+          "opponentId": 8,
+          "isBoss": false
+        },
+        {
+          "id": "duel_9",
+          "type": "duel",
+          "position": { "x": 400, "y": 240 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_8" },
+          "rewards": { "coins": 150 },
+          "opponentId": 9,
+          "isBoss": false
+        },
+        {
+          "id": "shop_2",
+          "type": "shop",
+          "position": { "x": 400, "y": 310 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_9" },
+          "rewards": null
+        },
+        {
+          "id": "duel_10",
+          "type": "duel",
+          "position": { "x": 400, "y": 380 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "shop_2" },
+          "rewards": { "coins": 200 },
+          "opponentId": 10,
+          "isBoss": false
+        },
+        {
+          "id": "duel_11",
+          "type": "duel",
+          "position": { "x": 400, "y": 450 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_10" },
+          "rewards": { "coins": 200 },
+          "opponentId": 11,
+          "isBoss": false
+        },
+        {
+          "id": "duel_12",
+          "type": "duel",
+          "position": { "x": 400, "y": 520 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_11" },
+          "rewards": { "coins": 200 },
+          "opponentId": 12,
+          "isBoss": false
+        },
+        {
+          "id": "duel_13",
+          "type": "duel",
+          "position": { "x": 400, "y": 590 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_12" },
+          "rewards": { "coins": 500 },
+          "opponentId": 13,
+          "isBoss": true
+        }
+      ]
+    },
+    {
+      "id": "ch_ancient_egypt",
+      "titleKey": "campaign.ch_ancient_egypt_title",
+      "nodes": [
+        {
+          "id": "story_ancient_egypt",
+          "type": "story",
+          "position": { "x": 400, "y": 30 },
+          "mapIcon": null,
+          "unlockCondition": null,
+          "rewards": null,
+          "scene": {
+            "background": "bg_ancient_egypt_palace",
+            "dialogue": [
+              { "textKey": "campaign.story_ancient_egypt_1", "speaker": "Narrator", "portrait": null, "side": "left", "foregrounds": null }
+            ]
+          }
+        },
+        {
+          "id": "duel_14",
+          "type": "duel",
+          "position": { "x": 400, "y": 100 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "story_ancient_egypt" },
+          "rewards": { "coins": 200 },
+          "opponentId": 14,
+          "isBoss": false
+        },
+        {
+          "id": "duel_15",
+          "type": "duel",
+          "position": { "x": 400, "y": 170 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_14" },
+          "rewards": { "coins": 200 },
+          "opponentId": 15,
+          "isBoss": false
+        },
+        {
+          "id": "duel_16",
+          "type": "duel",
+          "position": { "x": 400, "y": 240 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_15" },
+          "rewards": { "coins": 200 },
+          "opponentId": 16,
+          "isBoss": false
+        },
+        {
+          "id": "duel_17",
+          "type": "duel",
+          "position": { "x": 400, "y": 310 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_16" },
+          "rewards": { "coins": 200 },
+          "opponentId": 17,
+          "isBoss": false
+        },
+        {
+          "id": "shop_3",
+          "type": "shop",
+          "position": { "x": 400, "y": 380 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_17" },
+          "rewards": null
+        },
+        {
+          "id": "duel_18",
+          "type": "duel",
+          "position": { "x": 400, "y": 450 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "shop_3" },
+          "rewards": { "coins": 250 },
+          "opponentId": 18,
+          "isBoss": false
+        },
+        {
+          "id": "duel_19",
+          "type": "duel",
+          "position": { "x": 400, "y": 520 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_18" },
+          "rewards": { "coins": 250 },
+          "opponentId": 19,
+          "isBoss": false
+        },
+        {
+          "id": "duel_20",
+          "type": "duel",
+          "position": { "x": 400, "y": 590 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_19" },
+          "rewards": { "coins": 500 },
+          "opponentId": 20,
+          "isBoss": true
+        }
+      ]
+    },
+    {
+      "id": "ch_shrines",
+      "titleKey": "campaign.ch_shrines_title",
+      "nodes": [
+        {
+          "id": "story_shrines",
+          "type": "story",
+          "position": { "x": 400, "y": 30 },
+          "mapIcon": null,
+          "unlockCondition": null,
+          "rewards": null,
+          "scene": {
+            "background": "bg_shrines",
+            "dialogue": [
+              { "textKey": "campaign.story_shrines_1", "speaker": "Narrator", "portrait": null, "side": "left", "foregrounds": null }
+            ]
+          }
+        },
+        {
+          "id": "duel_21",
+          "type": "duel",
+          "position": { "x": 400, "y": 100 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "story_shrines" },
+          "rewards": { "coins": 300 },
+          "opponentId": 21,
+          "isBoss": false
+        },
+        {
+          "id": "duel_22",
+          "type": "duel",
+          "position": { "x": 400, "y": 170 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_21" },
+          "rewards": { "coins": 300 },
+          "opponentId": 22,
+          "isBoss": false
+        },
+        {
+          "id": "duel_23",
+          "type": "duel",
+          "position": { "x": 400, "y": 240 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_22" },
+          "rewards": { "coins": 300 },
+          "opponentId": 23,
+          "isBoss": false
+        },
+        {
+          "id": "shop_4",
+          "type": "shop",
+          "position": { "x": 400, "y": 310 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_23" },
+          "rewards": null
+        },
+        {
+          "id": "duel_24",
+          "type": "duel",
+          "position": { "x": 400, "y": 380 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "shop_4" },
+          "rewards": { "coins": 350 },
+          "opponentId": 24,
+          "isBoss": false
+        },
+        {
+          "id": "duel_25",
+          "type": "duel",
+          "position": { "x": 400, "y": 450 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_24" },
+          "rewards": { "coins": 400 },
+          "opponentId": 25,
+          "isBoss": false
+        },
+        {
+          "id": "duel_26",
+          "type": "duel",
+          "position": { "x": 400, "y": 520 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_25" },
+          "rewards": { "coins": 500 },
+          "opponentId": 26,
+          "isBoss": true
+        }
+      ]
+    },
+    {
+      "id": "ch_final",
+      "titleKey": "campaign.ch_final_title",
+      "nodes": [
+        {
+          "id": "story_final",
+          "type": "story",
+          "position": { "x": 400, "y": 30 },
+          "mapIcon": null,
+          "unlockCondition": null,
+          "rewards": null,
+          "scene": {
+            "background": "bg_final_battle",
+            "dialogue": [
+              { "textKey": "campaign.story_final_1", "speaker": "Narrator", "portrait": null, "side": "left", "foregrounds": null }
+            ]
+          }
+        },
+        {
+          "id": "duel_27",
+          "type": "duel",
+          "position": { "x": 400, "y": 100 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "story_final" },
+          "rewards": { "coins": 400 },
+          "opponentId": 27,
+          "isBoss": false
+        },
+        {
+          "id": "duel_28",
+          "type": "duel",
+          "position": { "x": 400, "y": 170 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_27" },
+          "rewards": { "coins": 400 },
+          "opponentId": 28,
+          "isBoss": false
+        },
+        {
+          "id": "duel_29",
+          "type": "duel",
+          "position": { "x": 400, "y": 240 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_28" },
+          "rewards": { "coins": 500 },
+          "opponentId": 29,
+          "isBoss": false
+        },
+        {
+          "id": "duel_30",
+          "type": "duel",
+          "position": { "x": 400, "y": 310 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_29" },
+          "rewards": { "coins": 1000 },
+          "opponentId": 30,
+          "isBoss": true
+        },
+        {
+          "id": "story_ending",
+          "type": "story",
+          "position": { "x": 400, "y": 380 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_30" },
+          "rewards": null,
+          "scene": {
+            "background": "bg_ending",
+            "dialogue": [
+              { "textKey": "campaign.story_ending_1", "speaker": "Narrator", "portrait": null, "side": "left", "foregrounds": null }
+            ]
+          }
+        },
+        {
+          "id": "duel_31",
+          "type": "duel",
+          "position": { "x": 400, "y": 450 },
+          "mapIcon": null,
+          "unlockCondition": { "type": "nodeComplete", "nodeId": "story_ending" },
+          "rewards": { "coins": 500 },
+          "opponentId": 31,
+          "isBoss": false
+        }
+      ]
+    }
+  ]
+}

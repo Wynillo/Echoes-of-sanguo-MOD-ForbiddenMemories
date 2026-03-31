@@ -1,0 +1,17 @@
+{
+  "id": "forbidden-memories",
+  "name": "Yu-Gi-Oh! Forbidden Memories",
+  "version": "1.0.0",
+  "author": "Wynillo",
+  "description": "A complete recreation of Yu-Gi-Oh! Forbidden Memories for the Echoes of Sanguo engine. Contains all 722 cards, type-based fusion system, 39 opponents, and the full Ancient Egypt campaign.",
+  "type": "base",
+  "entrypoint": "base.tcg",
+  "importMethods": {
+    "link": "https://github.com/Wynillo/Echoes-of-sanguo-MOD-ForbiddenMemories/releases/latest/download/base.tcg",
+    "file": "base.tcg"
+  },
+  "compatibility": {
+    "minEngineVersion": "1.0.0",
+    "formatVersion": 2
+  }
+}

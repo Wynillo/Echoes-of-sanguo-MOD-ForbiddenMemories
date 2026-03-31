@@ -1,0 +1,33 @@
+{
+  "name": "@wynillo/echoes-mod-forbidden-memories",
+  "version": "1.0.0",
+  "description": "Yu-Gi-Oh! Forbidden Memories MOD for Echoes of Sanguo — contains 722 cards, 39 opponents, fusion formulas, and a full campaign",
+  "type": "module",
+  "main": "./dist/base.tcg",
+  "exports": {
+    "./mod.json": "./tcg-src/mod.json",
+    "./tcg": "./dist/base.tcg"
+  },
+  "files": [
+    "dist",
+    "tcg-src/mod.json"
+  ],
+  "scripts": {
+    "build:tcg": "vite-node scripts/build-tcg.ts",
+    "validate": "vite-node scripts/validate-tcg.ts",
+    "prepare": "npm run build:tcg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wynillo/Echoes-of-sanguo-MOD-ForbiddenMemories.git"
+  },
+  "author": "Wynillo",
+  "license": "MIT",
+  "dependencies": {
+    "@wynillo/tcg-format": "github:Wynillo/Echoes-of-Sanguo-TCG"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.0",
+    "vite-node": "^3.1.0"
+  }
+}
